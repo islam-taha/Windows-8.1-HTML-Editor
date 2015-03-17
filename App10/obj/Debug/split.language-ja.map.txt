@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ja"
+"ResourceDimensions"		"language-ja-jp"
+"ResourceDimensions"		"language-ja"
+
+[Files]
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\split.language-ja.pri"			"resources.pri"

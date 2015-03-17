@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="App10.MainPage"
+    x:Name="rootPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App10"
+    xmlns:extension="using:App10.Extensions"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" IsTapEnabled="False" Background="#FF002B36"  >
+
+    <Page.Resources>
+        <DataTemplate x:Key="NavigationDataTemplate">
+            <Border BorderBrush="Black" BorderThickness="2">
+                <StackPanel Background="White" Width="150" Height="160">
+                    <TextBlock Text="{Binding PageNumber}" FontFamily="chiller" 
+                               Margin="3,30,3,3" FontSize="24" FontWeight="Bold"
+                               Foreground="#FF002B36" VerticalAlignment="Center" 
+                               HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+        <CollectionViewSource x:Name="NavigationItemsViewSource" Source="{Binding NavigationItemList}"/>
+    </Page.Resources>
+    <Page.TopAppBar>
+        <AppBar KeyDown="NoContentGrid_KeyDown" KeyUp="NoContentGrid_KeyUp" Background="#FF002B36" x:Name="AppBar" Unloaded="OnAppBarUnloaded">
+            <StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="200"/>
+                    </Grid.ColumnDefinitions>
+                    <GridView Margin="0,10,0,-10" Grid.Column="0" x:Name="NavigationGridView" 
+                		SelectionMode="Multiple"  
+                		ItemTemplate="{StaticResource NavigationDataTemplate}" 
+                		ItemsSource="{Binding Source={StaticResource NavigationItemsViewSource}}"
+                		SelectionChanged="OnNavigationGridSelectionChanged"
+                		Height="186"                         
+                		Width="1166"  ShowsScrollingPlaceholders="False"
+                        ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                             ScrollViewer.VerticalScrollBarVisibility="Auto"
+                		IsItemClickEnabled="True">
+                        <GridView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VariableSizedWrapGrid Orientation="Horizontal"/>
+                            </ItemsPanelTemplate>
+                        </GridView.ItemsPanel>
+                    </GridView>
+                    <StackPanel HorizontalAlignment="Right" Grid.Column="1" Orientation="Vertical" Margin="0,0,0,10">
+                        <AppBarButton Icon="Add" Click="OnAddButtonClicked" ToolTipService.ToolTip="New Tab: Ctrl + F3"/>
+                        <AppBarButton Icon="Remove" x:Name="RemoveButton"  IsEnabled="False" Click="OnRemoveButtonClicked"/>
+                    </StackPanel>
+                </Grid>
+                <StackPanel Height="10" Width="400" HorizontalAlignment="Center" Margin="3">
+                    <ProgressBar Height="10" x:Name="LoadPageProgressBar" Width="400"  Visibility="Collapsed" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="2" Foreground="White"/>
+                </StackPanel>
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Frame x:Name="ContentFrame" KeyDown="NoContentGrid_KeyDown" KeyUp="NoContentGrid_KeyUp" ></Frame>
+        <Grid x:Name="NoContentGrid" Background="#FF002B36" KeyDown="NoContentGrid_KeyDown" KeyUp="NoContentGrid_KeyUp" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="140"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Welcome to the HTML-LAB" FontFamily="chiller" TextAlignment="Center" FontSize="120" VerticalAlignment="Center" HorizontalAlignment="Stretch"></TextBlock>
+        </Grid>
+        <TextBlock x:Name="f" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Open The Top AppBar :)" FontFamily="chiller" FontSize="60"></TextBlock>
+    </Grid>
+</Page>

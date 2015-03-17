@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISLAM-TAHA</Machine>
+    <WindowsUser>Islam Taha</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>40b8788e-9d23-4441-92f1-e3913dc18822</PackageIdentityName>
+    <RegisteredManifestChecksum>441713ED1BA7757FF6BCB4979A3B1DA869C9E8244A4FB161C54777B89636D302</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>40b8788e-9d23-4441-92f1-e3913dc18822_1.0.0.3_neutral__5wj6c4d8dackt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>40b8788e-9d23-4441-92f1-e3913dc18822_5wj6c4d8dackt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>40b8788e-9d23-4441-92f1-e3913dc18822</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Islam Taha</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.3</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\App10\App10\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-26T21:09:30.892</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\HTML-LAB.exe">
+      <PackagePath>HTML-LAB.exe</PackagePath>
+      <Modified>2014-04-26T21:09:29.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Charts.WinRT.dll">
+      <PackagePath>AS.Charts.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Core.WinRT.dll">
+      <PackagePath>AS.Core.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:16:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.MicroCharts.WinRT.dll">
+      <PackagePath>AS.MicroCharts.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Shared.WinRT.dll">
+      <PackagePath>AS.Shared.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.SyntaxEditor.Addons.DotNet.WinRT.dll">
+      <PackagePath>AS.SyntaxEditor.Addons.DotNet.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.SyntaxEditor.Addons.JavaScript.WinRT.dll">
+      <PackagePath>AS.SyntaxEditor.Addons.JavaScript.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.SyntaxEditor.Addons.Xml.WinRT.dll">
+      <PackagePath>AS.SyntaxEditor.Addons.Xml.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT.dll">
+      <PackagePath>AS.SyntaxEditor.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Text.Addons.DotNet.WinRT.dll">
+      <PackagePath>AS.Text.Addons.DotNet.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Text.Addons.JavaScript.WinRT.dll">
+      <PackagePath>AS.Text.Addons.JavaScript.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Text.Addons.Xml.WinRT.dll">
+      <PackagePath>AS.Text.Addons.Xml.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Text.LLParser.WinRT.dll">
+      <PackagePath>AS.Text.LLParser.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\References\CommonConfiguration\neutral\AS.Text.WinRT.dll">
+      <PackagePath>AS.Text.WinRT.dll</PackagePath>
+      <Modified>2014-03-20T13:15:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Assembly16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Assembly16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ClassPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\CodeSnippet16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\CodeSnippet16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ConstantPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegateInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegateInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegatePrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegatePrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegateProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegateProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegatePublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\DelegatePublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationItem16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationItem16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EnumerationPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\EventPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\ExtensionMethodPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FieldPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Find16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Find16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FolderClosed16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\FolderClosed16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\GenericArgument16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\GenericArgument16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfaceInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfaceInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfacePrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfacePrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfaceProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfaceProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfacePublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\InterfacePublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Keyword16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Keyword16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\MethodPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Namespace16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Namespace16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Operator16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Operator16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PrintPreview16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PrintPreview16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyPrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyPrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyPublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\PropertyPublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Replace16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Replace16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StandardModuleInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StandardModuleInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StandardModulePublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StandardModulePublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructureInternal16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructureInternal16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructurePrivate16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructurePrivate16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructureProtected16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructureProtected16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructurePublic16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\StructurePublic16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Warning16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\Warning16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlAttribute16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlAttribute16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlCDataSection16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlCDataSection16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlComment16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlComment16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlDeclaration16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlDeclaration16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlProcessingInstruction16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlProcessingInstruction16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ActiproSoftware.WinRT.Xaml\14.1.0141\Redist\CommonConfiguration\neutral\AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlTag16.png">
+      <PackagePath>AS.SyntaxEditor.WinRT\Products\SyntaxEditor\Images\XmlTag16.png</PackagePath>
+      <Modified>2014-01-06T10:58:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-24T08:54:13.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <Modified>2014-03-24T08:53:54.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\splash-sdk.scale-140.png">
+      <PackagePath>Assets\splash-sdk.scale-140.png</PackagePath>
+      <Modified>2014-03-31T18:16:32.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-31T18:16:31.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-31T19:54:01.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\Square30x30Logo.scale-100.png">
+      <PackagePath>Assets\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-31T19:57:23.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-31T19:58:53.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-31T19:51:25.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-31T19:55:57.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-31T20:01:54.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-03-31T16:56:28.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\html\first.html">
+      <PackagePath>html\first.html</PackagePath>
+      <Modified>2014-03-23T19:16:02.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-01T18:32:54.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\Assets\ApplicationStyles.xbf">
+      <PackagePath>Assets\ApplicationStyles.xbf</PackagePath>
+      <Modified>2014-03-28T16:44:32.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-03-27T21:14:54.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\ContentPage.xbf">
+      <PackagePath>ContentPage.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\FullScreen.xbf">
+      <PackagePath>FullScreen.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\SettingsCharms\SettingsFlyout1.xbf">
+      <PackagePath>SettingsCharms\SettingsFlyout1.xbf</PackagePath>
+      <Modified>2014-04-01T20:51:20.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\SettingsCharms\SettingsFlyout2.xbf">
+      <PackagePath>SettingsCharms\SettingsFlyout2.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\AppBarHint.xbf">
+      <PackagePath>AS.Shared.WinRT\Themes\Includes\Styles\AppBarHint.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BoxPlot.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\BoxPlot.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BulletGraph.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\BulletGraph.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Candlestick.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\Candlestick.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Charts.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\Charts.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Charts.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\Charts.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\ChartsLogo.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\ChartsLogo.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Common.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Common.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Common.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Common.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Common.xbf">
+      <PackagePath>AS.Shared.WinRT\Themes\Includes\Common.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Common.xbf">
+      <PackagePath>AS.SyntaxEditor.WinRT\Themes\Includes\Common.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Dark.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Assets\Dark.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Dark.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Assets\Dark.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Assets\Dark.xbf">
+      <PackagePath>AS.SyntaxEditor.WinRT\Themes\Includes\Assets\Dark.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\DataPointLabel.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\DataPointLabel.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Generic.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Generic.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Generic.xbf">
+      <PackagePath>AS.Shared.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Generic.xbf">
+      <PackagePath>AS.SyntaxEditor.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\HeatMapPresenter.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\HeatMapPresenter.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Legend.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\Legend.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Light.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Assets\Light.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Light.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Assets\Light.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Marker.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\Marker.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Marker.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\Marker.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\MicroChartsLogo.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\MicroChartsLogo.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\PieChart.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\PieChart.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\RadialSlider.xbf">
+      <PackagePath>AS.Shared.WinRT\Themes\Includes\Styles\RadialSlider.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Ranges.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\Ranges.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Ranges.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\Ranges.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Series.xbf">
+      <PackagePath>AS.Charts.WinRT\Themes\Includes\Styles\Series.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Series.xbf">
+      <PackagePath>AS.MicroCharts.WinRT\Themes\Includes\Styles\Series.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\SharedLogo.xbf">
+      <PackagePath>AS.Shared.WinRT\Themes\Includes\Styles\SharedLogo.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditor.xbf">
+      <PackagePath>AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditor.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditorLogo.xbf">
+      <PackagePath>AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditorLogo.xbf</PackagePath>
+      <Modified>2014-04-26T21:09:28.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\App10\App10\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-26T21:09:29.970</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

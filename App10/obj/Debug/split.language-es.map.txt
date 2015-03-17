@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-es"
+"ResourceDimensions"		"language-es-es"
+"ResourceDimensions"		"language-es"
+
+[Files]
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\split.language-es.pri"			"resources.pri"

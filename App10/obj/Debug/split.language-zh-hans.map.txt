@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hans"
+"ResourceDimensions"		"language-zh-cn"
+
+[Files]
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\split.language-zh-hans.pri"			"resources.pri"

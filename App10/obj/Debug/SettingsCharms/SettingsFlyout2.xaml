@@ -1,0 +1,78 @@
+﻿<SettingsFlyout
+    x:Class="App10.SettingsCharms.SettingsFlyout2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App10.SettingsCharms"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    HeaderBackground="Black"
+    IconSource="Assets/SmallLogo.png"
+    Title="SettingsFlyout2" Background="#FF002B36" Height="875" Width="750">
+
+    <!-- This StackPanel acts as a root panel for vertical layout of the content sections -->
+    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+        <ScrollViewer HorizontalAlignment="Stretch" Height="742" VerticalAlignment="Stretch" Width="660" VerticalScrollBarVisibility="Auto">
+            <StackPanel Height="800" Width="475" >
+                <TextBlock Text="Shortcuts:" FontSize="20" FontFamily="consolas" Foreground="White" Height="47"/>
+                <Grid Height="355" Margin="0,0,110,0">
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,0,0,306">
+                        <TextBlock.Text>1.Save Text : Ctrl + S.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock TextWrapping="Wrap" Text="" Foreground="White" FontSize="15" Margin="0,18,0,288"/>
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,36,0,270">
+                        <TextBlock.Text>2.Open File : Ctrl + O.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock Text="" Margin="0,54,0,256" />
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,68,0,238">
+                        <TextBlock.Text>3.Open new tab: Ctrl + F3</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock TextWrapping="Wrap" Text="" Margin="0,86,0,224" />
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,100,0,206">
+                        <TextBlock.Text>4.Full Screen: Ctrl + F6.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock Text="" Margin="0,118,0,192" />
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,132,0,174">
+                        <TextBlock.Text>5.Go To Line: Ctrl + G.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock TextWrapping="Wrap" Text="" Margin="0,150,0,160" />
+                    <TextBlock Foreground="White" FontSize="15" Margin="0,164,0,142">
+                        <TextBlock.Text>6.Show Line Number: Ctrl + F1, UNDO THIS: Ctrl + F2</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock Text="" Margin="0,182,0,128" />
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,196,0,110">
+                        <TextBlock.Text>7.Run Code: F5.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock Text="" Margin="0,214,0,96" />
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,228,0,78">
+                        <TextBlock.Text>8.Go To Browser: Ctrl + B.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock Text="" Margin="0,246,0,64" />
+
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,292,0,14">
+                        <TextBlock.Text>10.New Document: Ctrl + E.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock Text="" />
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,323,0,-25" >
+                        <TextBlock.Text>11.Return from Full Screen: Ctrl + K.</TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock Text="" Height="358" VerticalAlignment="Bottom" Margin="0,-17,0,14" />
+                    <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="15" Margin="0,259,0,71">
+                        <TextBlock.Text>9. Format Text: Ctrl + F.</TextBlock.Text>
+                    </TextBlock>
+                </Grid>
+                <Grid Height="150" Margin="0,0,70,0">
+                    <StackPanel Orientation="Vertical" Margin="0,35,0,-35">
+                        <TextBlock Text="Excuse:" FontSize="20" FontFamily="consolas" Foreground="White" Height="24" VerticalAlignment="Top" />
+                        <TextBlock Foreground="White" FontSize="20" TextWrapping="Wrap" Height="85">
+                            <TextBlock.Text>This App will be better only in to full Screen Mode , you can use it in different orientations but with the use of Scroll Bars.</TextBlock.Text>
+                        </TextBlock>
+                    </StackPanel>
+                    <TextBlock Text="Note: double click tab to open " Style="{StaticResource InformationTextBlockStyle}" Foreground="White" Margin="0,155,0,-75" />
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+
+    </StackPanel>
+</SettingsFlyout>
+

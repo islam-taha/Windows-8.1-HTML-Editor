@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-tg-cyrl"
+"ResourceDimensions"		"language-tg-cyrl-tj"
+
+[Files]
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\split.language-tg-cyrl.pri"			"resources.pri"

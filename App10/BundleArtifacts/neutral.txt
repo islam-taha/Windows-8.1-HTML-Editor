@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\Computer Lab_1.0.0.2_Bundle\Computer Lab_1.0.0.2_AnyCPU_Debug.appx
+ResourcePack=C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\Computer Lab_1.0.0.2_Bundle\Computer Lab_1.0.0.2_scale-180.appx

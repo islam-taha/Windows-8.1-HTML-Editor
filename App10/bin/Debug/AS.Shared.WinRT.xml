@@ -1,0 +1,1130 @@
+<?xml version="1.0"?><doc><assembly><name>AS.Shared.WinRT</name></assembly><members><member name="T:ActiproSoftware.UI.Xaml.Controls.AppBarHint"><summary>
+            Represents an app bar hint.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.AppBarHint.OnApplyTemplate"><summary>
+            Invoked whenever application code or internal processes call <c>ApplyTemplate</c>.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.AppBarHint.OnPointerEntered(Windows.UI.Xaml.Input.PointerRoutedEventArgs)"><summary>
+            Occurs when the pointer enters the control.
+            </summary><param name="e">The <see cref="T:Windows.UI.Xaml.Input.PointerRoutedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.Controls.AppBarHint.OnPointerExited(Windows.UI.Xaml.Input.PointerRoutedEventArgs)"><summary>
+            Occurs when the pointer exits the control.
+            </summary><param name="e">The <see cref="T:Windows.UI.Xaml.Input.PointerRoutedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.Controls.AppBarHint.OnPointerMoved(Windows.UI.Xaml.Input.PointerRoutedEventArgs)"><summary>
+            Occurs when the pointer moves over the control.
+            </summary><param name="e">The <see cref="T:Windows.UI.Xaml.Input.PointerRoutedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.Controls.AppBarHint.OnTapped(Windows.UI.Xaml.Input.TappedRoutedEventArgs)"><summary>
+            Occurs when the control is tapped.
+            </summary><param name="e">An <see cref="T:Windows.UI.Xaml.RoutedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.Controls.AppBarHint.#ctor"><summary>
+            Initializes an instance of the <c>AppBarHint</c> class.
+            </summary></member><member name="T:ActiproSoftware.UI.Xaml.Controls.RingSlice"><summary>
+            Represents a <see cref="T:Windows.UI.Xaml.Shapes.Path" /> that renders a ring slice.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.RingSlice.MeasureOverride(Windows.Foundation.Size)"><summary>
+            Measures all children given an available size and returns the element's desired size based on the size of its children.
+            </summary><param name="availableSize">The size the element is suggested to fit inside.</param><returns>The desired size of the element.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Controls.RingSlice.#ctor"><summary>
+            Initializes an instance of the <c>RingSlice</c> class.
+            </summary></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.EndAngle"><summary>
+            Gets or sets the end angle.
+            </summary><value>
+            The end angle.
+            The default value is <c>360.0</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.IsRenderedWhenFullCircle"><summary>
+            Gets or sets whether the ring slice renders a full circle when the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.StartAngle" /> and <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.EndAngle" /> are different values,
+            but are normalized to the same value. 
+            </summary><value><c>true</c> if the ring slice renders a full circle when the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.StartAngle" /> and <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.EndAngle" /> are different values,
+            but are normalized to the same value; otherwise, <c>false</c>.
+            The default value is <c>true</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.Radius"><summary>
+            Gets or sets the ring's outer radius.
+            </summary><value>
+            The ring's outer radius.
+            The default value is <c>40.0</c>.
+            </value><remarks>
+            This ring is rendered inward from this radius.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.StartAngle"><summary>
+            Gets or sets the start angle.
+            </summary><value>
+            The start angle.
+            The default value is <c>0.0</c>.
+            </value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RingSlice.EndAngleProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.EndAngle" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.EndAngle" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RingSlice.IsRenderedWhenFullCircleProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.IsRenderedWhenFullCircle" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.IsRenderedWhenFullCircle" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RingSlice.RadiusProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.Radius" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.Radius" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RingSlice.StartAngleProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.StartAngle" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RingSlice.StartAngle" /> dependency property.</value></member><member name="T:ActiproSoftware.UI.Xaml.Extensions.UIElementExtensions"><summary>
+            Provides extension methods for the type <see cref="T:Windows.UI.Xaml.UIElement" />.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.UIElementExtensions.TryFindResource(Windows.UI.Xaml.UIElement,System.Object)"><summary>
+            Tries to locate a resource with the specified resource key.
+            </summary><param name="obj">The <see cref="T:Windows.UI.Xaml.DependencyObject" /> at which to begin the search.</param><param name="resourceKey">The key of the desired resource.</param><returns>The resource that was found, if any.</returns></member><member name="T:ActiproSoftware.Compatibility.ReflectionExtensions"><summary>
+            Provides several extensions methods for various reflection types that aid in code compatibility between .NET platforms.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetAddMethod(System.Reflection.EventInfo)"><summary>
+            Returns the method used to add an event handler delegate to the event source.
+            </summary><param name="eventInfo">The <see cref="T:System.Reflection.EventInfo" /> to examine.</param><returns>The method used to add an event handler delegate to the event source.</returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetGetMethod(System.Reflection.PropertyInfo)"><summary>
+            Returns the public get accessor for this property.
+            </summary><param name="propertyInfo">The <see cref="T:System.Reflection.PropertyInfo" /> to examine.</param><returns>The public get accessor for this property.</returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetGetMethod(System.Reflection.PropertyInfo,System.Boolean)"><summary>
+            Returns the public or non-public get accessor for this property.
+            </summary><param name="propertyInfo">The <see cref="T:System.Reflection.PropertyInfo" /> to examine.</param><param name="nonPublic">Indicates whether a non-public accessor should be returned. true if a non-public accessor is to be returned; otherwise, false.</param><returns>The public get accessor for this property.</returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetInterfaces(System.Type)"><summary>
+            Returns all the interfaces implemented or inherited by the current type.
+            </summary><param name="currentType">The current type.</param><returns>
+            An array of <see cref="T:System.Type" /> objects representing all the interfaces implemented or inherited by the current <see cref="T:System.Type" />.
+            </returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetRaiseMethod(System.Reflection.EventInfo)"><summary>
+            Returns the method that is called when the event is raised. 
+            </summary><param name="eventInfo">The <see cref="T:System.Reflection.EventInfo" /> to examine.</param><returns>The method that is called when the event is raised.</returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetRemoveMethod(System.Reflection.EventInfo)"><summary>
+            Returns the method used to remove an event handler delegate from the event source.
+            </summary><param name="eventInfo">The <see cref="T:System.Reflection.EventInfo" /> to examine.</param><returns>The method used to remove an event handler delegate from the event source.</returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetSetMethod(System.Reflection.PropertyInfo)"><summary>
+            Returns the public set accessor for this property.
+            </summary><param name="propertyInfo">The <see cref="T:System.Reflection.PropertyInfo" /> to examine.</param><returns>The public set accessor for this property.</returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetSetMethod(System.Reflection.PropertyInfo,System.Boolean)"><summary>
+            Returns the public or non-public set accessor for this property.
+            </summary><param name="propertyInfo">The <see cref="T:System.Reflection.PropertyInfo" /> to examine.</param><param name="nonPublic">Indicates whether a non-public accessor should be returned. true if a non-public accessor is to be returned; otherwise, false.</param><returns>The public set accessor for this property.</returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetGenericArguments(System.Type)"><summary>
+            Returns an array of Type objects that represent the type arguments of a generic type or the type parameters of a generic type definition.
+            </summary><param name="currentType">The current type.</param><returns>
+            An array of <c>Type</c> objects that represent the type arguments of a generic type. Returns an empty array if the current type is not a generic type.
+            </returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.GetTypes(System.Reflection.Assembly)"><summary>
+            Gets the types defined in this assembly.
+            </summary><param name="currentAssembly">The current assembly.</param><returns>
+            An array that contains all the types that are defined in this assembly.
+            </returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.IsAssignableFrom(System.Type,System.Type)"><summary>
+            Determines whether an instance of the current <see cref="T:System.Type" /> can be assigned from an instance of the specified <see cref="T:System.Type" />.
+            </summary><param name="currentType">The current type.</param><param name="otherType">The type to compare with the current type.</param><returns><c>true</c> if an instance of the current <see cref="T:System.Type" /> can be assigned from an instance of the specified <see cref="T:System.Type" />; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.Compatibility.ReflectionExtensions.IsSubclassOf(System.Type,System.Type)"><summary>
+            Determines whether the class represented by the current <see cref="T:System.Type" /> derives from the class represented by the specified <see cref="T:System.Type" />.
+            </summary><param name="currentType">The current type.</param><param name="otherType">The type to compare with the current type.</param><returns><c>true</c> if the class represented by the current <see cref="T:System.Type" /> derives from the class represented by the specified <see cref="T:System.Type" />; otherwise, <c>false</c>.
+            </returns></member><member name="T:ActiproSoftware.Compatibility.StringExtensions"><summary>
+            Provides several extensions methods for the <see cref="T:System.String" /> type that aid in code compatibility between .NET platforms.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.StringExtensions.ToLower(System.String,System.Globalization.CultureInfo)"><summary>
+            Returns a copy of this string converted to lowercase.
+            </summary><param name="text">The string to examine.</param><param name="cultureInfo">An object that specifies culture-specific casing rules.</param><returns>A copy of this string converted to lowercase.</returns></member><member name="M:ActiproSoftware.Compatibility.StringExtensions.ToUpper(System.String,System.Globalization.CultureInfo)"><summary>
+            Returns a copy of this string converted to uppercase.
+            </summary><param name="text">The string to examine.</param><param name="cultureInfo">An object that specifies culture-specific casing rules.</param><returns>A copy of this string converted to uppercase.</returns></member><member name="T:ActiproSoftware.Compatibility.RectExtensions"><summary>
+            Provides several extensions methods for the <see cref="T:Windows.Foundation.Rect" /> type that aid in code compatibility between .NET platforms.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.RectExtensions.Contains(Windows.Foundation.Rect,Windows.Foundation.Rect)"><summary>
+            Indicates whether the rectangle contains the specified rectangle.
+            </summary><param name="rect">The rectangle to check.</param><param name="otherRect">The other rectangle to check.</param><returns><c>true</c> if <paramref name="otherRect" /> is entirely contained by <paramref name="rect" />; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.Compatibility.RectExtensions.IntersectsWith(Windows.Foundation.Rect,Windows.Foundation.Rect)"><summary>
+            Returns whether one <see cref="T:Windows.Foundation.Rect" /> intersects with the other.
+            </summary><param name="rect">The first <see cref="T:Windows.Foundation.Rect" />.</param><param name="otherRect">The second <see cref="T:Windows.Foundation.Rect" />.</param><returns><c>true</c> if the two <see cref="T:Windows.Foundation.Rect" />'s intersect; otherwise, <c>false</c>.
+            </returns></member><member name="T:ActiproSoftware.Compatibility.ICloneable"><summary>
+            Supports cloning, which creates a new instance of a class with the same value as an existing instance.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.ICloneable.Clone"><summary>
+            Creates a new object that is a copy of the current instance.
+            </summary><returns>A new object that is a copy of this instance.</returns></member><member name="T:ActiproSoftware.Compatibility.ITypeDescriptorContext"><summary>
+            No-op; for compatibility purposes only.
+            </summary></member><member name="T:ActiproSoftware.Compatibility.TypeConverter"><summary>
+            WINRT NOTE: No-op. Provided for compatibility with WinRT, which does not have System.ComponentModel.TypeConverter
+            </summary></member><member name="M:ActiproSoftware.Compatibility.TypeConverter.CanConvertFrom(ActiproSoftware.Compatibility.ITypeDescriptorContext,System.Type)"><summary>
+            Determines whether this instance [can convert from] the specified context.
+            </summary><param name="context">The context.</param><param name="sourceType">Type of the source.</param><returns><c>true</c> if this instance [can convert from] the specified context; otherwise, <c>false</c>.</returns></member><member name="M:ActiproSoftware.Compatibility.TypeConverter.ConvertFrom(ActiproSoftware.Compatibility.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)"><summary>
+            Converts from.
+            </summary><param name="context">The context.</param><param name="culture">The culture.</param><param name="value">The value.</param><returns>System.Object.</returns></member><member name="M:ActiproSoftware.Compatibility.TypeConverter.CanConvertTo(ActiproSoftware.Compatibility.ITypeDescriptorContext,System.Type)"><summary>
+            Determines whether this instance [can convert to] the specified context.
+            </summary><param name="context">The context.</param><param name="destinationType">Type of the destination.</param><returns><c>true</c> if this instance [can convert to] the specified context; otherwise, <c>false</c>.</returns></member><member name="M:ActiproSoftware.Compatibility.TypeConverter.ConvertTo(ActiproSoftware.Compatibility.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)"><summary>
+            Converts to.
+            </summary><param name="context">The context.</param><param name="culture">The culture.</param><param name="value">The value.</param><param name="destinationType">Type of the destination.</param><returns>System.Object.</returns></member><member name="T:ActiproSoftware.Compatibility.TypeConverterAttribute"><summary>
+            WINRT NOTE: No-op. Provided for compatibility with WinRT, which does not have System.ComponentModel.TypeConverterAttribute
+            </summary></member><member name="M:ActiproSoftware.Compatibility.TypeConverterAttribute.#ctor"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.Compatibility.TypeConverterAttribute" /> class.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.TypeConverterAttribute.#ctor(System.Type)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.Compatibility.TypeConverterAttribute" /> class.
+            </summary><param name="type">The type.</param></member><member name="T:ActiproSoftware.Compatibility.IConvertible"><summary>
+            No-op; for compatibility purposes only.
+            </summary></member><member name="T:ActiproSoftware.Compatibility.CoerceValueCallback"><summary>
+            Provides a template for a method that is called whenever a dependency property value is being re-evaluated, or coercion is specifically requested.
+            </summary><param name="d">The object that the property exists on. When the callback is invoked, the property system will pass this value.</param><param name="baseValue">The new value of the property, prior to any coercion attempt</param><returns>The coerced value (with appropriate type).</returns></member><member name="T:ActiproSoftware.Compatibility.ClipToBoundsBehavior"><summary>
+            Helper class to support clip-to-bounds functionality.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.ClipToBoundsBehavior.GetClipToBounds(Windows.UI.Xaml.FrameworkElement)"><summary>
+            Gets the value of the <c>ClipToBounds</c> attached property for the specified object.
+            </summary><param name="element">The object from which the property value is read.</param><returns>The object's value.</returns></member><member name="M:ActiproSoftware.Compatibility.ClipToBoundsBehavior.SetClipToBounds(Windows.UI.Xaml.FrameworkElement,System.Boolean)"><summary>
+            Sets the value of the <c>ClipToBounds</c> attached property to the specified object. 
+            </summary><param name="element">The object to which the attached property is written.</param><param name="value">The value to set.</param></member><member name="F:ActiproSoftware.Compatibility.ClipToBoundsBehavior.ClipToBoundsProperty"><summary>
+            Identifies the <c>ClipToBounds</c> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <c>ClipToBounds</c> dependency property.</value></member><member name="T:ActiproSoftware.Compatibility.DependencyPropertyKey"><summary>
+            Provides a dependency property identifier for limited write access to a read-only dependency property.
+            </summary></member><member name="P:ActiproSoftware.Compatibility.DependencyPropertyKey.DependencyProperty"><summary>
+            Gets the dependency property identifier associated with this specialized read-only dependency property identifier. 
+            </summary><value>The relevant dependency property identifier.</value></member><member name="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadata"><summary>
+            Reports or applies metadata for a dependency property, specifically adding framework-specific property system characteristics.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(Windows.UI.Xaml.PropertyChangedCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="flags">The metadata option flags (a combination of <see cref="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions" /> values). These options specify characteristics of the dependency property that interact with systems such as layout.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="flags">The metadata option flags (a combination of <see cref="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions" /> values). These options specify characteristics of the dependency property that interact with systems such as layout.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,Windows.UI.Xaml.PropertyChangedCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.CoerceValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="coerceValueCallback">A reference to a handler implementation that the property system will call to coerce the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.CoerceValueCallback,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="coerceValueCallback">A reference to a handler implementation that the property system will call to coerce the effective value of the property.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions,Windows.UI.Xaml.PropertyChangedCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="flags">The metadata option flags (a combination of <see cref="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions" /> values). These options specify characteristics of the dependency property that interact with systems such as layout.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions,Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="flags">The metadata option flags (a combination of <see cref="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions" /> values). These options specify characteristics of the dependency property that interact with systems such as layout.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.CoerceValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="coerceValueCallback">A reference to a handler implementation that the property system will call to coerce the effective value of the property.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.CoerceValueCallback,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="coerceValueCallback">A reference to a handler implementation that the property system will call to coerce the effective value of the property.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions,Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.CoerceValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="flags">The metadata option flags (a combination of <see cref="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions" /> values). These options specify characteristics of the dependency property that interact with systems such as layout.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="coerceValueCallback">A reference to a handler implementation that the property system will call to coerce the effective value of the property.</param></member><member name="M:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.#ctor(System.Object,ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions,Windows.UI.Xaml.PropertyChangedCallback,ActiproSoftware.Compatibility.CoerceValueCallback,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Initializes a new instance of the <c>FrameworkPropertyMetadata</c> class.
+            </summary><param name="defaultValue">The default value of the dependency property, usually provided as a value of a specific type.</param><param name="flags">The metadata option flags (a combination of <see cref="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions" /> values). These options specify characteristics of the dependency property that interact with systems such as layout.</param><param name="propertyChangedCallback">A reference to a handler implementation that the property system will call whenever the effective value of the property changes.</param><param name="coerceValueCallback">A reference to a handler implementation that the property system will call to coerce the effective value of the property.</param><param name="validateValueCallback">A reference to a handler implementation that the property system will call to validate the effective value of the property.</param></member><member name="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.AffectsArrange"><summary>
+            Gets  a value that indicates whether a dependency property potentially affects the arrange pass during layout engine operations.
+            </summary><value><c>true</c> if a dependency property potentially affects the arrange pass during layout engine operations; otherwise, <c>false</c>.</value></member><member name="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.AffectsMeasure"><summary>
+            Gets a value that indicates whether a dependency property potentially affects the measure pass during layout engine operations.
+            </summary><value><c>true</c> if a dependency property potentially affects the measure pass during layout engine operations; otherwise, <c>false</c>.</value></member><member name="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.AffectsParentArrange"><summary>
+            Gets a value that indicates whether a dependency property potentially affects the arrange pass of its parent element's layout during layout engine operations.
+            </summary><value><c>true</c> if a dependency property potentially affects the arrange pass of its parent element's layout during layout engine operations; otherwise, <c>false</c>.</value></member><member name="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.AffectsParentMeasure"><summary>
+            Gets a value that indicates whether a dependency property potentially affects the measure pass of its parent element's layout during layout engine operations.
+            </summary><value><c>true</c> if a dependency property potentially affects the measure pass of its parent element's layout during layout engine operations; otherwise, <c>false</c>.</value></member><member name="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.CoerceValueCallback"><summary>
+            Gets a reference to a <see cref="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.CoerceValueCallback" /> implementation specified in this metadata.
+            </summary><value>The coerce value callback.</value></member><member name="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.PropertyChangedCallback"><summary>
+            Gets a reference to a <see cref="P:ActiproSoftware.Compatibility.FrameworkPropertyMetadata.PropertyChangedCallback" /> implementation specified in this metadata.
+            </summary><value>The property changed callback.</value></member><member name="T:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions"><summary>
+            Specifies the types of framework-level property behavior that pertain to a particular dependency property .
+            </summary></member><member name="F:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions.None"><summary>
+            No options are specified; the dependency property uses the default behavior.
+            </summary></member><member name="F:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions.AffectsMeasure"><summary>
+            The measure pass of layout compositions is affected by value changes to this dependency property
+            </summary></member><member name="F:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions.AffectsArrange"><summary>
+            The arrange pass of layout composition is affected by value changes to this dependency property.
+            </summary></member><member name="F:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions.AffectsParentMeasure"><summary>
+            The measure pass on the parent element is affected by value changes to this dependency property.
+            </summary></member><member name="F:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions.AffectsParentArrange"><summary>
+            The arrange pass on the parent element is affected by value changes to this dependency property.
+            </summary></member><member name="F:ActiproSoftware.Compatibility.FrameworkPropertyMetadataOptions.BindsTwoWayByDefault"><summary>
+            Not Supported
+            </summary></member><member name="T:ActiproSoftware.Compatibility.CanvasRenderer"><summary>
+            Provides several helper methods to aid in rendering content in a custom-draw element between WPF, Silverlight, and WinRT.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.CanvasRenderer.Erase(Windows.UI.Xaml.Controls.Canvas)"><summary>
+            Erases a canvas, thereby preparing it for rendering.
+            </summary><param name="canvas">The <see cref="T:Windows.UI.Xaml.Controls.Canvas" /> to erase.</param></member><member name="M:ActiproSoftware.Compatibility.CanvasRenderer.DrawGeometry(Windows.UI.Xaml.Controls.Canvas,Windows.UI.Xaml.Media.Brush,ActiproSoftware.Compatibility.Pen,Windows.UI.Xaml.Media.Geometry)"><summary>
+            Draws a geometry.
+            </summary><param name="canvas">The <see cref="T:Windows.UI.Xaml.Controls.Canvas" /> upon which to draw the shape.</param><param name="fill">The shape's fill.</param><param name="pen">The shape's pen.</param><param name="geometry">The <see cref="T:Windows.UI.Xaml.Media.Geometry" /> to render.</param></member><member name="M:ActiproSoftware.Compatibility.CanvasRenderer.DrawGeometry(Windows.UI.Xaml.Controls.Canvas,Windows.UI.Xaml.Media.Brush,ActiproSoftware.Compatibility.Pen,System.String,Windows.Foundation.Point)"><summary>
+            Draws a geometry.
+            </summary><param name="canvas">The <see cref="T:Windows.UI.Xaml.Controls.Canvas" /> upon which to draw the shape.</param><param name="fill">The shape's fill.</param><param name="pen">The shape's pen.</param><param name="geometryData">The <see cref="T:Windows.UI.Xaml.Media.Geometry" /> data to render.</param><param name="translation">The X/Y translation.</param></member><member name="M:ActiproSoftware.Compatibility.CanvasRenderer.DrawLine(Windows.UI.Xaml.Controls.Canvas,ActiproSoftware.Compatibility.Pen,Windows.Foundation.Point,Windows.Foundation.Point)"><summary>
+            Draws a line.
+            </summary><param name="canvas">The <see cref="T:Windows.UI.Xaml.Controls.Canvas" /> upon which to draw the shape.</param><param name="pen">The shape's pen.</param><param name="pt1">The start point.</param><param name="pt2">The end point.</param></member><member name="M:ActiproSoftware.Compatibility.CanvasRenderer.DrawRectangle(Windows.UI.Xaml.Controls.Canvas,Windows.UI.Xaml.Media.Brush,ActiproSoftware.Compatibility.Pen,Windows.Foundation.Rect)"><summary>
+            Draws a rectangle.
+            </summary><param name="canvas">The <see cref="T:Windows.UI.Xaml.Controls.Canvas" /> upon which to draw the shape.</param><param name="fill">The shape's fill.</param><param name="pen">The shape's pen.</param><param name="bounds">The bounds in which to draw.</param></member><member name="M:ActiproSoftware.Compatibility.CanvasRenderer.DrawText(Windows.UI.Xaml.Controls.Canvas,ActiproSoftware.Compatibility.FormattedText,Windows.Foundation.Point)"><summary>
+            Draws a rectangle.
+            </summary><param name="canvas">The <see cref="T:Windows.UI.Xaml.Controls.Canvas" /> upon which to draw the shape.</param><param name="text">The <see cref="T:ActiproSoftware.Compatibility.FormattedText" /> to render.</param><param name="origin">The <see cref="T:Windows.Foundation.Point" /> at which to render the text.</param></member><member name="T:ActiproSoftware.Compatibility.Pen"><summary>
+            Represents a pen.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.Pen.#ctor(Windows.UI.Xaml.Media.Brush,System.Double)"><summary>
+            Initializes a new instance of the <c>Pen</c> class. 
+            </summary><param name="brush">The brush to use for the pen.</param><param name="thickness">The pen's thickness.</param></member><member name="P:ActiproSoftware.Compatibility.Pen.Brush"><summary>
+            Gets or sets the brush to use for the pen.
+            </summary><value>The brush to use for the pen.</value></member><member name="P:ActiproSoftware.Compatibility.Pen.Thickness"><summary>
+            Gets or sets the pen's thickness.
+            </summary><value>The pen's thickness.</value></member><member name="T:ActiproSoftware.Compatibility.FormattedText"><summary>
+            Represents formatted text.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.FormattedText.ApplyToVisual(Windows.UI.Xaml.Controls.TextBlock)"><summary>
+            Applies the formatted text settings to the specified element.
+            </summary><param name="element">The element.</param></member><member name="M:ActiproSoftware.Compatibility.FormattedText.CreateVisual"><summary>
+            Creates a <see cref="T:Windows.UI.Xaml.UIElement" /> that can be used for rendering.
+            </summary><returns>A <see cref="T:Windows.UI.Xaml.UIElement" /> that can be used for rendering.</returns></member><member name="M:ActiproSoftware.Compatibility.FormattedText.#ctor(System.String,System.Globalization.CultureInfo,Windows.UI.Xaml.FlowDirection,ActiproSoftware.Compatibility.TypefaceEx,System.Double,Windows.UI.Xaml.Media.Brush)"><summary>
+            Initializes a new instance of the <c>RoutedEventArgsEx</c> class. 
+            </summary><param name="textToFormat">The text.</param><param name="culture">The <see cref="T:System.Globalization.CultureInfo" /> to use.</param><param name="flowDirection">The <see cref="T:Windows.UI.Xaml.FlowDirection" /> to use.</param><param name="typeface">The <see cref="T:ActiproSoftware.Compatibility.TypefaceEx" /> to use.</param><param name="fontSize">The font size.</param><param name="foreground">The foreground <see cref="T:Windows.UI.Xaml.Media.Brush" />.</param></member><member name="P:ActiproSoftware.Compatibility.FormattedText.Baseline"><summary>
+            Gets the baseline of the text.
+            </summary><value>The baseline of the text.</value></member><member name="P:ActiproSoftware.Compatibility.FormattedText.Height"><summary>
+            Gets the height of the text.
+            </summary><value>The height of the text.</value></member><member name="P:ActiproSoftware.Compatibility.FormattedText.Text"><summary>
+            Gets the text string.
+            </summary><value>The text string.</value></member><member name="P:ActiproSoftware.Compatibility.FormattedText.WidthIncludingTrailingWhitespace"><summary>
+            Gets the width of the text, including trailing whitespace.
+            </summary><value>The width of the text, including trailing whitespace.</value></member><member name="T:ActiproSoftware.Compatibility.TypefaceEx"><summary>
+            Represents a type face consisting of multiple font properties.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.TypefaceEx.Equals(System.Object)"><summary>
+            Determines whether the specified <c>Object</c> is equal to the current <c>Object</c>. 
+            </summary><param name="obj">The <c>Object</c> to compare to the current <c>Object</c>.</param><returns><c>true</c> if the specified <c>Object</c> is equal to the current <c>Object</c>; 
+            otherwise, <c>false</c>. 
+            </returns></member><member name="M:ActiproSoftware.Compatibility.TypefaceEx.GetHashCode"><summary>
+            Returns a hash code for this object.
+            </summary><returns>An integer value that specifies a hash value for this object.</returns></member><member name="M:ActiproSoftware.Compatibility.TypefaceEx.#ctor(System.String)"><summary>
+            Initializes an instance of the <c>TypefaceEx</c> class.
+            </summary><param name="typefaceName">The typeface name.</param></member><member name="M:ActiproSoftware.Compatibility.TypefaceEx.#ctor(Windows.UI.Xaml.Media.FontFamily,Windows.UI.Text.FontStyle,Windows.UI.Text.FontWeight,Windows.UI.Text.FontStretch)"><summary>
+            Initializes an instance of the <c>TypefaceEx</c> class.
+            </summary><param name="fontFamily">The font family.</param><param name="style">The font style.</param><param name="weight">The font weight.</param><param name="stretch">The font stretch.</param></member><member name="P:ActiproSoftware.Compatibility.TypefaceEx.FontFamily"><summary>
+            Gets the font family.
+            </summary><value>The font family.</value></member><member name="P:ActiproSoftware.Compatibility.TypefaceEx.Stretch"><summary>
+            Gets the font stretch.
+            </summary><value>The font stretch.</value></member><member name="P:ActiproSoftware.Compatibility.TypefaceEx.Style"><summary>
+            Gets the font style.
+            </summary><value>The font style.</value></member><member name="P:ActiproSoftware.Compatibility.TypefaceEx.Weight"><summary>
+            Gets the font weight.
+            </summary><value>The font weight.</value></member><member name="T:ActiproSoftware.Compatibility.ValidateValueCallback"><summary>
+            Represents a method used as a callback that validates the effective value of a dependency property
+            </summary><param name="value">The value to be validated.</param><returns><c>true</c> if the value was validated; <c>false</c> if the submitted value was invalid.</returns></member><member name="T:ActiproSoftware.Compatibility.DependencyPropertyEx"><summary>
+            Provides compatibility support for defining dependency properties in WPF and Silverlight.
+            </summary></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.ClearValue(Windows.UI.Xaml.DependencyObject,ActiproSoftware.Compatibility.DependencyPropertyKey)"><summary>
+            Clear the local value of a read-only dependency property, specified by the <see cref="T:ActiproSoftware.Compatibility.DependencyPropertyKey" /> identifier of the dependency property. 
+            </summary><param name="obj">The <see cref="T:Windows.UI.Xaml.DependencyObject" /> to update.</param><param name="key">The <see cref="T:ActiproSoftware.Compatibility.DependencyPropertyKey" /> identifier of the property to set.</param></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.CoerceValue(Windows.UI.Xaml.DependencyObject,Windows.UI.Xaml.DependencyProperty)"><summary>
+            Sets the local value of a read-only dependency property, specified by the <see cref="T:ActiproSoftware.Compatibility.DependencyPropertyKey" /> identifier of the dependency property.
+            </summary><param name="obj">The <see cref="T:Windows.UI.Xaml.DependencyObject" /> to update.</param><param name="property">The property to coerce.</param></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.Register(System.String,System.Type,System.Type,Windows.UI.Xaml.PropertyMetadata)"><summary>
+            Registers a dependency property, with the specified property type, owner type, and property metadata. 
+            </summary><param name="name">The name of the dependency property to register.</param><param name="propertyType">The type of the property.</param><param name="ownerType">The owner type that is registering the dependency property.</param><param name="typeMetadata">Property metadata for the dependency property.</param><returns>A dependency property key that should be used to set the value of a static read-only field in your class, which is then used to reference the dependency property.</returns></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.Register(System.String,System.Type,System.Type,ActiproSoftware.Compatibility.FrameworkPropertyMetadata,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Registers a dependency property, with the specified property type, owner type, and property metadata. 
+            </summary><param name="name">The name of the dependency property to register.</param><param name="propertyType">The type of the property.</param><param name="ownerType">The owner type that is registering the dependency property.</param><param name="typeMetadata">Property metadata for the dependency property.</param><param name="validateValueCallback">A delegate to be called to validate values.</param><returns>A dependency property key that should be used to set the value of a static read-only field in your class, which is then used to reference the dependency property.</returns></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.RegisterAttached(System.String,System.Type,System.Type,Windows.UI.Xaml.PropertyMetadata)"><summary>
+            Registers an attached dependency property, with the specified property type, owner type, and property metadata. 
+            </summary><param name="name">The name of the dependency property to register.</param><param name="propertyType">The type of the property.</param><param name="ownerType">The owner type that is registering the dependency property.</param><param name="typeMetadata">Property metadata for the dependency property.</param><returns>A dependency property key that should be used to set the value of a static read-only field in your class, which is then used to reference the dependency property.</returns></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.RegisterAttached(System.String,System.Type,System.Type,ActiproSoftware.Compatibility.FrameworkPropertyMetadata,ActiproSoftware.Compatibility.ValidateValueCallback)"><summary>
+            Registers an attached dependency property, with the specified property type, owner type, and property metadata. 
+            </summary><param name="name">The name of the dependency property to register.</param><param name="propertyType">The type of the property.</param><param name="ownerType">The owner type that is registering the dependency property.</param><param name="typeMetadata">Property metadata for the dependency property.</param><param name="validateValueCallback">A delegate to be called to validate values.</param><returns>A dependency property key that should be used to set the value of a static read-only field in your class, which is then used to reference the dependency property.</returns></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.RegisterAttachedReadOnly(System.String,System.Type,System.Type,Windows.UI.Xaml.PropertyMetadata)"><summary>
+            Registers an attached read-only dependency property, with the specified property type, owner type, and property metadata. 
+            </summary><param name="name">The name of the dependency property to register.</param><param name="propertyType">The type of the property.</param><param name="ownerType">The owner type that is registering the dependency property.</param><param name="typeMetadata">Property metadata for the dependency property.</param><returns>A dependency property key that should be used to set the value of a static read-only field in your class, which is then used to reference the dependency property.</returns></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.RegisterReadOnly(System.String,System.Type,System.Type,Windows.UI.Xaml.PropertyMetadata)"><summary>
+            Registers a read-only dependency property, with the specified property type, owner type, and property metadata. 
+            </summary><param name="name">The name of the dependency property to register.</param><param name="propertyType">The type of the property.</param><param name="ownerType">The owner type that is registering the dependency property.</param><param name="typeMetadata">Property metadata for the dependency property.</param><returns>A dependency property key that should be used to set the value of a static read-only field in your class, which is then used to reference the dependency property.</returns></member><member name="M:ActiproSoftware.Compatibility.DependencyPropertyEx.SetValue(Windows.UI.Xaml.DependencyObject,ActiproSoftware.Compatibility.DependencyPropertyKey,System.Object)"><summary>
+            Sets the local value of a read-only dependency property, specified by the <see cref="T:ActiproSoftware.Compatibility.DependencyPropertyKey" /> identifier of the dependency property. 
+            </summary><param name="obj">The <see cref="T:Windows.UI.Xaml.DependencyObject" /> to update.</param><param name="key">The <see cref="T:ActiproSoftware.Compatibility.DependencyPropertyKey" /> identifier of the property to set.</param><param name="value">The new local value.</param></member><member name="T:ActiproSoftware.Products.ActiproLicenseValidator"><summary>
+            Represents a license validator for Actipro Software components.
+            </summary></member><member name="M:ActiproSoftware.Products.ActiproLicenseValidator.ValidateLicense(ActiproSoftware.Products.AssemblyInfo,System.Type)"><summary>
+            This method is for internal use only.
+            </summary><param name="assemblyInfo">Parameter.</param><param name="controlType">Parameter.</param><returns>Return value.</returns></member><member name="T:ActiproSoftware.Products.Shared.AssemblyInfo"><summary>
+            Provides a class for retrieving information about the <c>ActiproSoftware.Shared</c> assembly.
+            </summary></member><member name="P:ActiproSoftware.Products.Shared.AssemblyInfo.Instance"><summary>
+            Gets the instance of the <see cref="T:ActiproSoftware.Products.AssemblyInfo" /> class for this assembly.
+            </summary><value>The instance of the <see cref="T:ActiproSoftware.Products.AssemblyInfo" /> class for this assembly.</value></member><member name="P:ActiproSoftware.Products.Shared.AssemblyInfo.LicenseType"><summary>
+            Gets the type of license that is available for the assembly.
+            </summary><value>A <see cref="T:ActiproSoftware.Products.AssemblyLicenseType" /> specifying the type of license that is available for the assembly.</value></member><member name="P:ActiproSoftware.Products.Shared.AssemblyInfo.Platform"><summary>
+            Gets the target platform for the assembly.
+            </summary><value>A <see cref="T:ActiproSoftware.Products.AssemblyPlatform" /> specifying the target platform for the assembly.</value></member><member name="P:ActiproSoftware.Products.Shared.AssemblyInfo.ProductCode"><summary>
+            Gets the product code of the assembly.
+            </summary><value>A three-letter product code of the assembly.</value></member><member name="P:ActiproSoftware.Products.Shared.AssemblyInfo.ProductId"><summary>
+            Gets the product ID of the assembly.
+            </summary><value>The product ID of the assembly.</value></member><member name="T:ActiproSoftware.Products.Shared.SharedLogo"><summary>
+            Represents the logo for this product.
+            </summary></member><member name="M:ActiproSoftware.Products.Shared.SharedLogo.#ctor"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.Products.Shared.SharedLogo" /> class.
+            </summary></member><member name="T:ActiproSoftware.Products.SRBase"><summary>
+            Provides an abstract base class for accessing the string resources of an assembly, along with customization capabilities.
+            </summary></member><member name="M:ActiproSoftware.Products.SRBase.ClearCustomStringsCore"><summary>
+            Removes all custom strings.
+            </summary></member><member name="M:ActiproSoftware.Products.SRBase.ContainsCustomStringCore(System.String)"><summary>
+            Returns whether a custom string is defined for the specified string resource.
+            </summary><param name="name">The name of the resource for which to search.</param><returns><c>true</c> if a custom string is defined for the specified string resource; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.Products.SRBase.GetCustomStringCore(System.String)"><summary>
+            Returns custom string that is stored for the specified string resource, if any.
+            </summary><param name="name">The name of the resource to get.</param><returns>The custom string that is stored for the specified string resource, if any.</returns></member><member name="M:ActiproSoftware.Products.SRBase.GetStringCore(System.String,System.Object[])"><summary>
+            Returns the resolved value of the specified string resource, by calling <c>String.Format</c> using supplied arguments.
+            </summary><param name="name">The name of the resource to get.</param><param name="args">The arguments to pass to <c>String.Format</c>.</param><returns>
+            The value of the resource localized for the caller's current culture settings. 
+            If a best match is not possible, <see langword="null" /> is returned.
+            </returns></member><member name="M:ActiproSoftware.Products.SRBase.RemoveCustomStringCore(System.String)"><summary>
+            Removes any custom string that is defined for the specified string resource.
+            </summary><param name="name">The name of the resource to remove.</param></member><member name="M:ActiproSoftware.Products.SRBase.SetCustomStringCore(System.String,System.String)"><summary>
+            Sets a custom string value for the specified string resource.
+            </summary><param name="name">The name of the resource to set.</param><param name="value">The value of the resource to set.</param></member><member name="P:ActiproSoftware.Products.SRBase.ResourceLoader"><summary>
+            Gets the <see cref="P:ActiproSoftware.Products.SRBase.ResourceLoader" /> that provides the default resources. 
+            </summary><value>The <see cref="P:ActiproSoftware.Products.SRBase.ResourceLoader" /> that provides the default resources.</value></member><member name="T:ActiproSoftware.Products.Shared.SR"><summary>
+            Provides access to the string resources of this assembly, also allowing for their customization.
+            </summary><remarks>
+            Call the <see cref="M:ActiproSoftware.Products.Shared.SR.GetString(System.String)" /> method to return a resolved resource string.
+            If a custom string has been set for a specified string resource name, it will be returned.
+            Otherwise, the default string resource value is returned.
+            <para>
+            If any of the resource strings are customized via a call to <see cref="M:ActiproSoftware.Products.Shared.SR.SetCustomString(System.String,System.String)" />,
+            it is best to do so before any other classes in this assembly are referenced,
+            such as in the application startup.
+            </para></remarks></member><member name="M:ActiproSoftware.Products.Shared.SR.ClearCustomStrings"><summary>
+            Removes all custom strings.
+            </summary></member><member name="M:ActiproSoftware.Products.Shared.SR.ContainsCustomString(System.String)"><summary>
+            Returns whether a custom string is defined for the specified string resource.
+            </summary><param name="name">The name of the resource for which to search.</param><returns><c>true</c> if a custom string is defined for the specified string resource; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.Products.Shared.SR.GetCustomString(System.String)"><summary>
+            Returns custom string that is stored for the specified string resource, if any.
+            </summary><param name="name">The name of the resource to get.</param><returns>The custom string that is stored for the specified string resource, if any.</returns></member><member name="M:ActiproSoftware.Products.Shared.SR.GetString(System.String)"><summary>
+            Returns the resolved value of the specified string resource.
+            </summary><param name="name">The name of the resource to get.</param><returns>
+            The value of the resource localized for the caller's current culture settings. 
+            If a best match is not possible, <see langword="null" /> is returned.
+            </returns></member><member name="M:ActiproSoftware.Products.Shared.SR.GetString(ActiproSoftware.Products.Shared.SRName)"><summary>
+            Returns the resolved value of the specified string resource.
+            </summary><param name="name">The name of the resource to get.</param><returns>
+            The value of the resource localized for the caller's current culture settings. 
+            If a best match is not possible, <see langword="null" /> is returned.
+            </returns></member><member name="M:ActiproSoftware.Products.Shared.SR.GetString(System.String,System.Object[])"><summary>
+            Returns the resolved value of the specified string resource, by calling <c>String.Format</c> using supplied arguments.
+            </summary><param name="name">The name of the resource to get.</param><param name="args">The arguments to pass to <c>String.Format</c>.</param><returns>
+            The value of the resource localized for the caller's current culture settings. 
+            If a best match is not possible, <see langword="null" /> is returned.
+            </returns></member><member name="M:ActiproSoftware.Products.Shared.SR.GetString(ActiproSoftware.Products.Shared.SRName,System.Object[])"><summary>
+            Returns the resolved value of the specified string resource, by calling <c>String.Format</c> using supplied arguments.
+            </summary><param name="name">The name of the resource to get.</param><param name="args">The arguments to pass to <c>String.Format</c>.</param><returns>
+            The value of the resource localized for the caller's current culture settings. 
+            If a best match is not possible, <see langword="null" /> is returned.
+            </returns></member><member name="M:ActiproSoftware.Products.Shared.SR.RemoveCustomString(System.String)"><summary>
+            Removes any custom string that is defined for the specified string resource.
+            </summary><param name="name">The name of the resource to remove.</param></member><member name="M:ActiproSoftware.Products.Shared.SR.SetCustomString(System.String,System.String)"><summary>
+            Sets a custom string value for the specified string resource.
+            </summary><param name="name">The name of the resource to set.</param><param name="value">The value of the resource to set.</param></member><member name="P:ActiproSoftware.Products.Shared.SR.ResourceLoader"><summary>
+            Gets the <see cref="P:ActiproSoftware.Products.Shared.SR.ResourceLoader" /> that provides the default resources. 
+            </summary><value>The <see cref="P:ActiproSoftware.Products.Shared.SR.ResourceLoader" /> that provides the default resources.</value></member><member name="T:ActiproSoftware.Products.Shared.SRName"><summary>
+            Specifies the names of string resources for this assembly.
+            </summary></member><member name="F:ActiproSoftware.Products.Shared.SRName.ExInvalidPropertyValue"><summary>An exception message string.</summary></member><member name="T:ActiproSoftware.UI.Xaml.CancelableEventArgs"><summary>
+            Provides cancelable event arguments.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.CancelableEventArgs.#ctor"><summary>
+            Initializes a new instance of the <c>CancelableEventArgs</c> class with the <see cref="P:ActiproSoftware.UI.Xaml.CancelableEventArgs.Cancel" /> property set to <c>false</c>. 
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.CancelableEventArgs.#ctor(System.Boolean)"><summary>
+            Initializes a new instance of the <c>CancelableEventArgs</c> class with the <see cref="P:ActiproSoftware.UI.Xaml.CancelableEventArgs.Cancel" /> property set to the given value. 
+            </summary><param name="cancel"><c>true</c> to cancel the event; otherwise, <c>false</c>.</param></member><member name="P:ActiproSoftware.UI.Xaml.CancelableEventArgs.Cancel"><summary>
+            Gets or sets a value indicating whether the event should be canceled.
+            </summary><value><c>true</c> to cancel the event; otherwise, <c>false</c>.
+            </value></member><member name="T:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb"><summary>
+            Represents a circular thumb used to change values in a various input control.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.OnApplyTemplate"><summary>
+            Invoked whenever application code or internal processes call <c>ApplyTemplate</c>.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.OnGotFocus(Windows.UI.Xaml.RoutedEventArgs)"><summary>
+            Occurs when the control gains focus.
+            </summary><param name="e">The <see cref="T:Windows.UI.Xaml.RoutedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.OnLostFocus(Windows.UI.Xaml.RoutedEventArgs)"><summary>
+            Occurs when the control loses focus.
+            </summary><param name="e">The <see cref="T:Windows.UI.Xaml.RoutedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.#ctor"><summary>
+            Initializes an instance of the <c>CircularThumb</c> class.
+            </summary></member><member name="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.ArrowAngle"><summary>
+            Gets or sets the arrow angle.
+            </summary><value>
+            The arrow angle.
+            The default value is <c>180.0</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.IsDragging"><summary>
+            Gets whether the thumb is being dragged by a pointer.
+            </summary><value><c>true</c> if the thumb is being dragged by a pointer; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.PressedBackground"><summary>
+            Gets or sets the background <see cref="T:Windows.UI.Xaml.Media.Brush" /> to render when the thumb is pressed.
+            </summary><value>
+            The background <see cref="T:Windows.UI.Xaml.Media.Brush" /> to render when the thumb is pressed.
+            </value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.ArrowAngleProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.ArrowAngle" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.ArrowAngle" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.IsDraggingProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.IsDragging" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.IsDragging" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.PressedBackgroundProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.PressedBackground" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.Primitives.CircularThumb.PressedBackground" /> dependency property.</value></member><member name="T:ActiproSoftware.UI.Xaml.Controls.RadialSlider"><summary>
+            Represents a radial slider.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.RadialSlider.OnApplyTemplate"><summary>
+            Invoked whenever application code or internal processes call <c>ApplyTemplate</c>.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.RadialSlider.OnValueChanged(System.Double,System.Double)"><summary>
+            Occurs when the <c>Value</c> property has changed.
+            </summary><param name="oldValue">The old value.</param><param name="newValue">The new value.</param></member><member name="M:ActiproSoftware.UI.Xaml.Controls.RadialSlider.#ctor"><summary>
+            Initializes an instance of the <c>RadialSlider</c> class.
+            </summary></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.IntermediateValue"><summary>
+            Gets or sets the value of the slider while the user is interacting with it, before the value is snapped.
+            </summary><value>
+            A temporary value.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.Radius"><summary>
+            Gets or sets the slider's radius.
+            </summary><value>
+            The slider's radius.
+            The default value is <c>100.0</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbArrowAngle"><summary>
+            Gets or sets the thumb's arrow angle.
+            </summary><value>
+            The thumb's arrow angle.
+            The default value is <c>180.0</c>, meaning it will face down when up at <c>0</c> degrees in the slider.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbBackground"><summary>
+            Gets or sets the background <see cref="T:Windows.UI.Xaml.Media.Brush" /> to render when the thumb is in a normal state.
+            </summary><value>
+            The background <see cref="T:Windows.UI.Xaml.Media.Brush" /> to render when the thumb is in a normal state.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbPressedBackground"><summary>
+            Gets or sets the background <see cref="T:Windows.UI.Xaml.Media.Brush" /> to render when the thumb is pressed.
+            </summary><value>
+            The background <see cref="T:Windows.UI.Xaml.Media.Brush" /> to render when the thumb is pressed.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbStyle"><summary>
+            Gets or sets the <see cref="T:Windows.UI.Xaml.Style" /> to use for the thumb.
+            </summary><value>
+            The <see cref="T:Windows.UI.Xaml.Style" /> to use for the thumb.
+            </value><remarks>
+            Use this property if a custom thumb <see cref="T:Windows.UI.Xaml.Style" /> is desired.
+            </remarks></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RadialSlider.IntermediateValueProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.IntermediateValue" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.IntermediateValue" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RadialSlider.RadiusProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.Radius" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.Radius" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbArrowAngleProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbArrowAngle" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbArrowAngle" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbBackgroundProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbBackground" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbBackground" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbPressedBackgroundProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbPressedBackground" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbPressedBackground" /> dependency property.</value></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbStyleProperty"><summary>
+            Identifies the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbStyle" /> dependency property.  This field is read-only.
+            </summary><value>The identifier for the <see cref="P:ActiproSoftware.UI.Xaml.Controls.RadialSlider.ThumbStyle" /> dependency property.</value></member><member name="T:ActiproSoftware.UI.Xaml.Controls.RoundMode"><summary>
+            Specifies the mode of rounding a value.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.None"><summary>
+            No rounding is applied.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.Floor"><summary>
+            The largest integer less than or equal to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.FloorToEven"><summary>
+            The largest even integer less than or equal to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.FloorToOdd"><summary>
+            The largest odd integer less than or equal to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.Ceiling"><summary>
+            The smallest integer greater than or equal to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.CeilingToEven"><summary>
+            The smallest even integer greater than or equal to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.CeilingToOdd"><summary>
+            The smallest odd integer greater than or equal to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.Round"><summary>
+            The closest integer to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.RoundToEven"><summary>
+            The closest even integer to the value is returned.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Controls.RoundMode.RoundToOdd"><summary>
+            The closest odd integer to the value is returned.
+            </summary></member><member name="T:ActiproSoftware.UI.Xaml.Controls.WrapPanel"><summary>
+            WrapPanel is a <c>Panel</c> that stacks children horizontally left to right, 
+            wrapping children that extend past its width onto new rows top-to-bottom, and also has an option for an alternate vertical orientation.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Controls.WrapPanel.ArrangeOverride(Windows.Foundation.Size)"><summary>
+            Arranges and performs layout on children 
+            given a size to layout within.
+            </summary><param name="finalSize">The size <see cref="T:ActiproSoftware.UI.Xaml.Controls.WrapPanel" /> is suggested to occupy for layout.</param><returns>The size <see cref="T:ActiproSoftware.UI.Xaml.Controls.WrapPanel" /> occupies after layout.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Controls.WrapPanel.MeasureOverride(Windows.Foundation.Size)"><summary>
+            Measures all children given an available size
+            and returns its desired size based on the size of its children.
+            </summary><param name="availableSize">The size the <see cref="T:ActiproSoftware.UI.Xaml.Controls.WrapPanel" /> is suggested to fit inside.</param><returns>The desired size of the <see cref="T:ActiproSoftware.UI.Xaml.Controls.WrapPanel" />.</returns></member><member name="P:ActiproSoftware.UI.Xaml.Controls.WrapPanel.Orientation"><summary>
+            Controls the direction that children are laid out. 
+            This is a dependency property.
+            </summary><value>
+            The <see cref="P:ActiproSoftware.UI.Xaml.Controls.WrapPanel.Orientation" /> that designates the layout.
+            The default value is <c>Horizontal</c>.
+            </value><remarks>
+            Horizontal orientation will flow chidren left-to-right, top-to-bottom. 
+            Vertical orientation will flow children top-to-bottom, left-to-right.
+            </remarks></member><member name="F:ActiproSoftware.UI.Xaml.Controls.WrapPanel.OrientationProperty"><summary>
+            Controls the direction that children are laid out. Horizontal orientation will flow chidren left-to-right, top-to-bottom. 
+            Vertical orientation will flow children top-to-bottom, left-to-right.
+            </summary></member><member name="T:ActiproSoftware.UI.Xaml.Data.DurationToMillisecondConverter"><summary>
+            Represents a value converter that converts between a <see cref="T:Windows.UI.Xaml.Duration" /> and a number of milliseconds.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Data.DurationToMillisecondConverter.Convert(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding source to the binding target.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.DurationToMillisecondConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding target to the binding source.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="T:ActiproSoftware.UI.Xaml.Data.BooleanToVisibilityConverter"><summary>
+            Represents the converter that converts Boolean values to and from Visibility enumeration values.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Data.BooleanToVisibilityConverter.Convert(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding source to the binding target.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.BooleanToVisibilityConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding target to the binding source.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="T:ActiproSoftware.UI.Xaml.Data.ConditionalConverter"><summary>
+            Represents a value converter that provides if-else functionality for <c>Binding</c> objects.
+            </summary><remarks>
+            This converter expects the following source value to be specified:
+            <list type="number"><item><term>
+            Condition - A <see cref="T:System.Boolean" /> value indicating whether the true or false value should be returned.
+            </term></item></list></remarks><example><code>
+            &lt;shared:ConditionalConverter x:Key="ConditionalConverter" TrueValue="The Value is true" FalseValue="The Value is false" /&gt;
+            ...
+            &lt;TextBlock Text="{Binding Path=BooleanProperty, Converter={StaticResource ConditionalConverter}}" /&gt;
+            </code></example></member><member name="M:ActiproSoftware.UI.Xaml.Data.ConditionalConverter.Convert(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding source to the binding target.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value. If the method returns null, the valid null value is used.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ConditionalConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding target to the binding source.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="P:ActiproSoftware.UI.Xaml.Data.ConditionalConverter.FalseValue"><summary>
+            Gets or sets the value returned when the conditional test is <c>false</c>.
+            </summary><value>The value returned when the conditional test is <c>false</c>.</value></member><member name="P:ActiproSoftware.UI.Xaml.Data.ConditionalConverter.TrueValue"><summary>
+            Gets or sets the value returned when the conditional test is <c>true</c>.
+            </summary><value>The value returned when the conditional test is <c>true</c>.</value></member><member name="T:ActiproSoftware.UI.Xaml.Data.IsEnumFlagSetConverter"><summary>
+            Represents a value converter that returns whether the specified enumeration value has the flag, specified by
+            the converter's parameter, set.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Data.IsEnumFlagSetConverter.Convert(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding source to the binding target.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.IsEnumFlagSetConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding target to the binding source.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="P:ActiproSoftware.UI.Xaml.Data.IsEnumFlagSetConverter.Instance"><summary>
+            Gets a global instance of this converter.
+            </summary><value>A global instance of this converter.</value></member><member name="T:ActiproSoftware.UI.Xaml.Data.PercentageConverter"><summary>
+            Represents a value converter that converts between a number and a percentage.
+            </summary><remarks>
+            The percentage is simply the number multiplied by <c>100</c>.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Data.PercentageConverter.Convert(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding source to the binding target.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.PercentageConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding target to the binding source.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="T:ActiproSoftware.UI.Xaml.Data.StringFormatConverter"><summary>
+            Represents a value converter that provides <c>String.Format</c> functionality for <c>Binding</c> objects.
+            </summary><remarks>
+            Pass the format string in the converter's parameter.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Data.StringFormatConverter.Convert(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding source to the binding target.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language of the conversion.</param><returns>A converted value.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.StringFormatConverter.ConvertBack(System.Object,System.Type,System.Object,System.String)"><summary>
+            Converts a value. The data binding engine calls this method when it propagates a value from the binding target to the binding source.
+            </summary><param name="value">The value produced by the binding source.</param><param name="targetType">The type of the binding target property.</param><param name="parameter">The converter parameter to use.</param><param name="language">The language to use in the converter.</param><returns>A converted value.</returns></member><member name="P:ActiproSoftware.UI.Xaml.Data.StringFormatConverter.IsNullAllowed"><summary>
+            Gets or sets a value indicating whether this instance will return <see langword="null" /> if the value(s) passed is <see langword="null" />.
+            </summary><value><c>true</c> if this instance will return <see langword="null" /> if the value(s) passed is <see langword="null" />; otherwise, <c>false</c>.
+            </value></member><member name="T:ActiproSoftware.UI.Xaml.Data.ValidationHelper"><summary>
+            Provides helpful methods for validating data.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsBetweenInclusive(System.Object,System.Double,System.Double)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> whose value is inclusively between two numbers.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than or equal to.</param><param name="max">The number that the value must be less than or equal to.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsGreaterThan(System.Object,System.Double)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> greater than the specified number.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsGreaterThanOrEqual(System.Object,System.Double)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> greater than or equal to the specified number.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than or equal to.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsNumber(System.Object)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> is not <c>NaN</c> or infinity.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsNumberOrNaN(System.Object)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> is not infinity.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsPercentage(System.Object)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> between <c>0</c> and <c>1</c> inclusive.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsPositive(System.Object)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> greater than or equal to <c>0</c>.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDoubleIsPositiveOrNaN(System.Object)"><summary>
+            Validates that the object is a <see cref="T:System.Double" /> greater than or equal to <c>0</c> or <c>NaN</c>.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateDurationIsPositiveTimeSpan(System.Object)"><summary>
+            Validates that the object is a <see cref="T:Windows.UI.Xaml.Duration" /> is a positive <see cref="T:System.TimeSpan" />.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateInt32IsBetweenInclusive(System.Object,System.Int32,System.Int32)"><summary>
+            Validates that the object is an <see cref="T:System.Int32" /> whose value is inclusively between two numbers.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than or equal to.</param><param name="max">The number that the value must be less than or equal to.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateInt32IsGreaterThanOrEqual(System.Object,System.Int32)"><summary>
+            Validates that the object is an <see cref="T:System.Int32" /> greater than or equal to the specified number.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than or equal to.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateInt32IsPositive(System.Object)"><summary>
+            Validates that the object is an <see cref="T:System.Int32" /> greater than or equal to <c>0</c>.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateInt64IsBetweenInclusive(System.Object,System.Int64,System.Int64)"><summary>
+            Validates that the object is an <see cref="T:System.Int64" /> whose value is inclusively between two numbers.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than or equal to.</param><param name="max">The number that the value must be less than or equal to.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateInt64IsGreaterThanOrEqual(System.Object,System.Int64)"><summary>
+            Validates that the object is an <see cref="T:System.Int64" /> greater than or equal to the specified number.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than or equal to.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Data.ValidationHelper.ValidateInt64IsPositive(System.Object)"><summary>
+            Validates that the object is an <see cref="T:System.Int64" /> greater than or equal to <c>0</c>.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="T:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1"><summary>
+            Provides an <see cref="T:System.Collections.ObjectModel.ObservableCollection`1" /> that is capable of suspending its property change notifications until a bulk update is complete.
+            </summary><typeparam name="T">The type of items.</typeparam></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.AddRange(System.Collections.Generic.IEnumerable{`0})"><summary>
+            Adds multiple items to the collection.
+            </summary><param name="items">The collection of items to add.</param></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.BeginUpdate"><summary>
+            Flags that a bulk update is about to begin.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.EndUpdate"><summary>
+            Flags that a bulk update has ended.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.InsertItem(System.Int32,`0)"><summary>
+            Inserts an item into the collection at the specified index.
+            </summary><param name="index">The zero-based index at which <paramref name="item" /> should be inserted.</param><param name="item">The object to insert.</param></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.OnCollectionChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)"><summary>
+            Raises the <c>CollectionChanged</c> event with the provided arguments.
+            </summary><param name="e">A <see cref="T:System.Collections.Specialized.NotifyCollectionChangedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.OnPropertyChanged(System.ComponentModel.PropertyChangedEventArgs)"><summary>
+            Raises the <c>PropertyChanged</c> event with the provided arguments.
+            </summary><param name="e">A <see cref="T:System.ComponentModel.PropertyChangedEventArgs" /> that contains the event data.</param></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.SetItem(System.Int32,`0)"><summary>
+            Replaces the element at the specified index.
+            </summary><param name="index">The zero-based index of the element to replace.</param><param name="item">The new value for the element at the specified index.</param></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.ToArray"><summary>
+            Returns a strongly-typed array containing the items in this collection.
+            </summary><returns>A strongly-typed array containing the items in this collection.</returns></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.#ctor"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1" /> class.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.#ctor(System.Collections.Generic.IComparer{`0})"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1" /> class.
+            </summary><param name="sortComparer">A comparer used to sort items; otherwise <see langword="null" />.</param></member><member name="M:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.#ctor(System.Collections.Generic.IComparer{`0},System.Boolean)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1" /> class.
+            </summary><param name="sortComparer">A comparer used to sort items; otherwise <see langword="null" />.</param><param name="useStableSort">if set to <c>true</c> then equivalent items will be maintained in the order they are added.</param></member><member name="P:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.IsDirty"><summary>
+            Gets whether there are any suspended property changes.
+            </summary><value><c>true</c> if there are any suspended property changes; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.DeferrableObservableCollection`1.IsPropertyChangeSuspended"><summary>
+            Gets whether property change notifications are currently suspended.
+            </summary><value><c>true</c> if property change notifications are currently suspended; otherwise, <c>false</c>.
+            </value></member><member name="T:ActiproSoftware.UI.Xaml.Extensions.PointExtensions"><summary>
+            Provides extension methods for the type <see cref="T:Windows.Foundation.Point" />.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.PointExtensions.GetDegreeAngle(Windows.Foundation.Point,Windows.Foundation.Point)"><summary>
+            Returns the degree angle between a center <see cref="T:Windows.Foundation.Point" /> and another <see cref="T:Windows.Foundation.Point" /> location.
+            </summary><param name="centerPosition">The center <see cref="T:Windows.Foundation.Point" />.</param><param name="position">The <see cref="T:Windows.Foundation.Point" /> location to examine.</param><returns>The degree angle between a center <see cref="T:Windows.Foundation.Point" /> and another <see cref="T:Windows.Foundation.Point" /> location.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.PointExtensions.GetRadiusPointAtRotation(Windows.Foundation.Point,System.Double,System.Double)"><summary>
+            Returns the <see cref="T:Windows.Foundation.Point" /> location relative to a center <see cref="T:Windows.Foundation.Point" /> for a degree angle at the specified radius.
+            </summary><param name="centerPosition">The center <see cref="T:Windows.Foundation.Point" />.</param><param name="angle">The angle, in degrees (0 - 359.99).</param><param name="radius">The radius.</param><returns>The <see cref="T:Windows.Foundation.Point" /> location for a degree angle at the specified radius.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.PointExtensions.IsEffectivelyEqual(Windows.Foundation.Point,Windows.Foundation.Point)"><summary>
+            Determines whether the two values are close enough to be considered equal.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><returns><c>true</c> if the two values are close enough to be considered equal; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.PointExtensions.IsWithin(Windows.Foundation.Point,Windows.Foundation.Point,System.Double)"><summary>
+            Determines whether the two values are within a specified range.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><param name="difference">The difference threshold.</param><returns><c>true</c> if the two values within a specified range; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.PointExtensions.Midpoint(Windows.Foundation.Point,Windows.Foundation.Point)"><summary>
+            Gets the mid-point between the specified points.
+            </summary><param name="point">The first point.</param><param name="otherPoint">The second point.</param><returns>The mid-point between the specified points.</returns></member><member name="T:ActiproSoftware.UI.Xaml.Extensions.FrameworkElementExtensions"><summary>
+            Provides extension methods for the type <see cref="T:Windows.UI.Xaml.FrameworkElement" />.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.FrameworkElementExtensions.BindToProperty(Windows.UI.Xaml.FrameworkElement,Windows.UI.Xaml.DependencyProperty,System.Object,System.String,Windows.UI.Xaml.Data.BindingMode,Windows.UI.Xaml.Data.IValueConverter)"><summary>
+            Binds a dependency property to a property on the specified source.
+            </summary><param name="element">The target element.</param><param name="targetProperty">The target property.</param><param name="source">The source object.</param><param name="sourcePropertyName">The source property name.</param><param name="mode">The binding mode.</param><param name="converter">The value converter.</param></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.FrameworkElementExtensions.GetCurrentSize(Windows.UI.Xaml.FrameworkElement)"><summary>
+            Returns the element's current size.
+            </summary><param name="element">The element to examine.</param><returns>The element's current size.</returns><remarks>
+            This method looks at the <see cref="P:Windows.UI.Xaml.FrameworkElement.ActualWidth" /> and <see cref="P:Windows.UI.Xaml.FrameworkElement.ActualHeight" /> properties for the size.
+            If those haven't yet been set, the <see cref="P:Windows.UI.Xaml.FrameworkElement.Width" /> and <see cref="P:Windows.UI.Xaml.FrameworkElement.Height" /> properties are examined.
+            </remarks></member><member name="T:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions"><summary>
+            Provides extension methods for the type <see cref="T:System.Double" />.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.ConvertDegreesToRadians(System.Double)"><summary>
+            Converts an angle from degrees to radians.
+            </summary><param name="angle">The angle value, in degrees (0 - 359.99).</param><returns>A <see cref="T:System.Double" /> of the angle, expressed in radians.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.ConvertRadiansToDegrees(System.Double)"><summary>
+            Converts an angle from radians to degrees.
+            </summary><param name="angle">The angle value, in radians.</param><returns>A <see cref="T:System.Double" /> of the angle, expressed in degrees.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.GetNormalizedDegreeAngle(System.Double)"><summary>
+            Returns a normalized degree angle value in the range of (0 - 359.99).
+            </summary><param name="angle">The angle value, in degrees.</param><returns>A normalized degree angle value.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.IsEffectivelyEqual(System.Double,System.Double)"><summary>
+            Determines whether the two values are close enough to be considered equal.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><returns><c>true</c> if the two values are close enough to be considered equal; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.IsEffectivelyGreaterThan(System.Double,System.Double)"><summary>
+            Determines whether the left value is effectively greater than the right value.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><returns><c>true</c> if the left value is effectively greater than the right value; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.IsEffectivelyGreaterThanOrEqual(System.Double,System.Double)"><summary>
+            Determines whether the left value is effectively greater than or equal to the right value.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><returns><c>true</c> if the left value is effectively greater than or equal to the right value; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.IsEffectivelyLessThan(System.Double,System.Double)"><summary>
+            Determines whether the left value is effectively less than the right value.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><returns><c>true</c> if the left value is effectively less than the right value; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.IsEffectivelyLessThanOrEqual(System.Double,System.Double)"><summary>
+            Determines whether the left value is effectively less than or equal to the right value.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><returns><c>true</c> if the left value is effectively less than or equal to the right value; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.IsEffectivelyZero(System.Double)"><summary>
+            Determines whether the specified value is close enough to zero to be considered equal.
+            </summary><param name="value">The value to compare with zero.</param><returns><c>true</c> if the specified value is close enough to zero to be considered equal; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.IsWithin(System.Double,System.Double,System.Double)"><summary>
+            Determines whether the two values are within a specified range.
+            </summary><param name="left">The value on the left side of the comparison.</param><param name="right">The value on the left side of the comparison.</param><param name="difference">The difference threshold.</param><returns><c>true</c> if the two values within a specified range; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.Range(System.Double,System.Double,System.Double)"><summary>
+            Returns the specified value constrained to the specified minimum and maximum values.
+            </summary><param name="value">The value to constrain.</param><param name="minValue">The minimum value.</param><param name="maxValue">The maximum value.</param><returns>The specified value constrained to the specified minimum and maximum values.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Extensions.DoubleExtensions.Round(System.Double,ActiproSoftware.UI.Xaml.Controls.RoundMode)"><summary>
+            Returns a rounded number using the specified <see cref="T:ActiproSoftware.UI.Xaml.Controls.RoundMode" />.
+            </summary><param name="value">The value to round.</param><param name="mode">The <see cref="T:ActiproSoftware.UI.Xaml.Controls.RoundMode" /> to use.</param><returns>A rounded number using the specified <see cref="T:ActiproSoftware.UI.Xaml.Controls.RoundMode" />.</returns></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputAdapter"><summary>
+            Watches a <see cref="T:Windows.UI.Xaml.UIElement" /> for various input-related events and publishes them in a platform agnostic way.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputAdapter.CapturePointer(ActiproSoftware.UI.Xaml.Input.InputPointerButtonEventArgs)"><summary>
+            Captures the pointer that sourced the specified event arguments.
+            </summary><param name="e">The event arguments to examine.</param><returns><c>true</c> if the pointer was captured; otherwise, <c>false</c>.
+            </returns><remarks>
+            This method should only be called in a <see cref="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerPressed" /> event handlers.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputAdapter.IsAttachedTo(ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds)"><summary>
+            Returns whether the specified event kind is currently attached.
+            </summary><param name="kind">The kind of event.</param><returns><c>true</c> if the specified event kind is currently attached; otherwise, <c>false</c>.
+            </returns><seealso cref="P:ActiproSoftware.UI.Xaml.Input.InputAdapter.AttachedEventKinds" /></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputAdapter.ReleasePointerCaptures"><summary>
+            Releases all pointer captures.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputAdapter.#ctor(Windows.UI.Xaml.UIElement)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Input.InputAdapter" /> class.
+            </summary><param name="element">The <see cref="T:Windows.UI.Xaml.UIElement" /> to watch for input-related events.</param></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputAdapter.AttachedEventKinds"><summary>
+            Gets or sets the kinds of events that should be attached to and notified by this class.
+            </summary><value>A flags-based <see cref="T:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds" /> that indicates the events to attach.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputAdapter.IsAttached"><summary>
+            Gets whether the adapter is currently attached to any events.
+            </summary><value><c>true</c> if the adapter is currently attached to any events; otherwise, <c>false</c>.
+            </value><seealso cref="P:ActiproSoftware.UI.Xaml.Input.InputAdapter.AttachedEventKinds" /></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.DoubleTapped"><summary>
+            Occurs when the element is double-tapped.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputDoubleTappedEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.KeyDown"><summary>
+            Occurs when a keyboard key is pressed.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputKeyEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.KeyUp"><summary>
+            Occurs when a keyboard key is released.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputKeyEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerCaptureLost"><summary>
+            Occurs when the pointer capture is lost.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputPointerEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerEntered"><summary>
+            Occurs when the pointer enters the element.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputPointerEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerExited"><summary>
+            Occurs when the pointer exits the element.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputPointerEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerMoved"><summary>
+            Occurs when the pointer moves over the element.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputPointerEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerPressed"><summary>
+            Occurs when a pointer button is pressed over the element.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputPointerButtonEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerReleased"><summary>
+            Occurs when a pointer button is released over the element.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputPointerButtonEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.PointerWheelChanged"><summary>
+            Occurs when a pointer wheel is changed over the element.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputPointerWheelEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="E:ActiproSoftware.UI.Xaml.Input.InputAdapter.Tapped"><summary>
+            Occurs when the element is tapped.
+            </summary><eventdata>
+            The event handler receives an argument of type <c>InputTappedEventArgs</c> containing data related to this event.
+            </eventdata></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds"><summary>
+            Specifies the kinds of events that an <see cref="T:ActiproSoftware.UI.Xaml.Input.InputAdapter" /> can track.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.None"><summary>
+            No events.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.PointerCaptureLost"><summary>
+            Pointer capture lost.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.PointerEntered"><summary>
+            Pointer entered.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.PointerExited"><summary>
+            Pointer exited.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.PointerMoved"><summary>
+            Pointer moved.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.PointerPressed"><summary>
+            Pointer pressed.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.PointerReleased"><summary>
+            Pointer released.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.PointerWheelChanged"><summary>
+            Pointer wheel changed.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.Tapped"><summary>
+            Tapped.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.DoubleTapped"><summary>
+            Double-tapped.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.KeyDown"><summary>
+            Key down.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.KeyUp"><summary>
+            Key up.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputAdapterEventKinds.All"><summary>
+            All events.
+            </summary></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputDeviceKind"><summary>
+            Specifies the kind of input device.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputDeviceKind.Mouse"><summary>
+            A mouse.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputDeviceKind.Stylus"><summary>
+            A stylus, or pen device.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.Input.InputDeviceKind.Touch"><summary>
+            A touch.
+            </summary></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs"><summary>
+            Provides event data for pointer-based double-tap events.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs.GetPosition(Windows.UI.Xaml.UIElement)"><summary>
+            Returns the current pointer position relative to the specified element.
+            </summary><param name="relativeTo">The element to examine.</param><returns>The current pointer position relative to the specified element.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs.ToString"><summary>
+            Returns a <see cref="T:System.String" /> representation of this instance.
+            </summary><returns>
+            A <see cref="T:System.String" /> representation of this instance.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs.#ctor(Windows.UI.Xaml.Input.DoubleTappedRoutedEventArgs)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs" /> class.
+            </summary><param name="e">The wrapped event arguments.</param></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs.DeviceKind"><summary>
+            Gets an <see cref="T:ActiproSoftware.UI.Xaml.Input.InputDeviceKind" /> that indicates the device kind.
+            </summary><value>An <see cref="T:ActiproSoftware.UI.Xaml.Input.InputDeviceKind" /> that indicates the device kind.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs.Handled"><summary>
+            Gets or set whether the event has been handled.
+            </summary><value><c>true</c> if the event has been handled; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs.OriginalSource"><summary>
+            Gets the original source of the event.
+            </summary><value>The original source of the event.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputDoubleTappedEventArgs.WrappedEventArgs"><summary>
+            Gets the wrapped event arguments.
+            </summary><value>The wrapped event arguments.</value></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs"><summary>
+            Provides event data for key-based input events.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs.ToString"><summary>
+            Returns a <see cref="T:System.String" /> representation of this instance.
+            </summary><returns>
+            A <see cref="T:System.String" /> representation of this instance.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs.#ctor(Windows.UI.Xaml.Input.KeyRoutedEventArgs)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs" /> class.
+            </summary><param name="e">The wrapped event arguments.</param></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs.Handled"><summary>
+            Gets or set whether the event has been handled.
+            </summary><value><c>true</c> if the event has been handled; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs.ModifierKeys"><summary>
+            Gets the modifier keys that are currently pressed.
+            </summary><value>The modifier keys that are currently pressed.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs.Key"><summary>
+            Gets the keyboard key associated with the event. 
+            </summary><value>The keyboard key associated with the event.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs.OriginalSource"><summary>
+            Gets the original source of the event.
+            </summary><value>The original source of the event.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputKeyEventArgs.WrappedEventArgs"><summary>
+            Gets the wrapped event arguments.
+            </summary><value>The wrapped event arguments.</value></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs"><summary>
+            Provides event data for pointer-based input events.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs.GetPosition(Windows.UI.Xaml.UIElement)"><summary>
+            Returns the current pointer position relative to the specified element.
+            </summary><param name="relativeTo">The element to examine.</param><returns>The current pointer position relative to the specified element.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs.ToString"><summary>
+            Returns a <see cref="T:System.String" /> representation of this instance.
+            </summary><returns>
+            A <see cref="T:System.String" /> representation of this instance.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs.#ctor(Windows.UI.Xaml.Input.PointerRoutedEventArgs)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs" /> class.
+            </summary><param name="e">The wrapped event arguments.</param></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs.DeviceKind"><summary>
+            Gets an <see cref="T:ActiproSoftware.UI.Xaml.Input.InputDeviceKind" /> that indicates the device kind.
+            </summary><value>An <see cref="T:ActiproSoftware.UI.Xaml.Input.InputDeviceKind" /> that indicates the device kind.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs.ModifierKeys"><summary>
+            Gets the modifier keys that are currently pressed.
+            </summary><value>The modifier keys that are currently pressed.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs.OriginalSource"><summary>
+            Gets the original source of the event.
+            </summary><value>The original source of the event.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerEventArgs.WrappedEventArgs"><summary>
+            Gets the wrapped event arguments.
+            </summary><value>The wrapped event arguments.</value></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputPointerButtonEventArgs"><summary>
+            Provides event data for pointer button input events.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputPointerButtonEventArgs.#ctor(Windows.UI.Xaml.Input.PointerRoutedEventArgs)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Input.InputPointerButtonEventArgs" /> class.
+            </summary><param name="e">The wrapped event arguments.</param></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerButtonEventArgs.Handled"><summary>
+            Gets or set whether the event has been handled.
+            </summary><value><c>true</c> if the event has been handled; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerButtonEventArgs.WrappedEventArgs"><summary>
+            Gets the wrapped event arguments.
+            </summary><value>The wrapped event arguments.</value></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs"><summary>
+            Provides event data for pointer wheel input events.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs.ToString"><summary>
+            Returns a <see cref="T:System.String" /> representation of this instance.
+            </summary><returns>
+            A <see cref="T:System.String" /> representation of this instance.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs.#ctor(Windows.UI.Xaml.Input.PointerRoutedEventArgs)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs" /> class.
+            </summary><param name="e">The wrapped event arguments.</param></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs.Delta"><summary>
+            Gets the pointer wheel delta.
+            </summary><value>The pointer wheel delta.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs.Handled"><summary>
+            Gets or set whether the event has been handled.
+            </summary><value><c>true</c> if the event has been handled; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs.SingleUnitDelta"><summary>
+            Gets the pointer wheel delta for a single unit.
+            </summary><value>The pointer wheel delta for a single unit.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputPointerWheelEventArgs.WrappedEventArgs"><summary>
+            Gets the wrapped event arguments.
+            </summary><value>The wrapped event arguments.</value></member><member name="T:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs"><summary>
+            Provides event data for pointer-based tap events.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs.GetPosition(Windows.UI.Xaml.UIElement)"><summary>
+            Returns the current pointer position relative to the specified element.
+            </summary><param name="relativeTo">The element to examine.</param><returns>The current pointer position relative to the specified element.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs.ToString"><summary>
+            Returns a <see cref="T:System.String" /> representation of this instance.
+            </summary><returns>
+            A <see cref="T:System.String" /> representation of this instance.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs.#ctor(Windows.UI.Xaml.Input.TappedRoutedEventArgs)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs" /> class.
+            </summary><param name="e">The wrapped event arguments.</param></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs.DeviceKind"><summary>
+            Gets an <see cref="T:ActiproSoftware.UI.Xaml.Input.InputDeviceKind" /> that indicates the device kind.
+            </summary><value>An <see cref="T:ActiproSoftware.UI.Xaml.Input.InputDeviceKind" /> that indicates the device kind.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs.Handled"><summary>
+            Gets or set whether the event has been handled.
+            </summary><value><c>true</c> if the event has been handled; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs.OriginalSource"><summary>
+            Gets the original source of the event.
+            </summary><value>The original source of the event.</value></member><member name="P:ActiproSoftware.UI.Xaml.Input.InputTappedEventArgs.WrappedEventArgs"><summary>
+            Gets the wrapped event arguments.
+            </summary><value>The wrapped event arguments.</value></member><member name="T:ActiproSoftware.UI.Xaml.Media.UIColor"><summary>
+            Provides an enhanced representation of a <see cref="T:Windows.UI.Color" /> object that supports the RGB, HSB, and HLS color models,
+            conversion between models, and numerous other color helper methods.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.Darken(System.Double)"><summary>
+            Darkens the color by the specified amount.
+            </summary><param name="percentage">The percentage by which to darken the color.  The value must be between <c>0</c> and <c>1</c>.</param></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.Equals(Windows.UI.Color)"><summary>
+            Determines whether the specified <c>Object</c> is equal to the current <c>Object</c>. 
+            </summary><param name="obj">The <c>Object</c> to compare to the current <c>Object</c>.</param><returns><c>true</c> if the specified <c>Object</c> is equal to the current <c>Object</c>; 
+            otherwise, <c>false</c>. 
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.Equals(System.Object)"><summary>
+            Determines whether the specified <c>Object</c> is equal to the current <c>Object</c>. 
+            </summary><param name="obj">The <c>Object</c> to compare to the current <c>Object</c>.</param><returns><c>true</c> if the specified <c>Object</c> is equal to the current <c>Object</c>; 
+            otherwise, <c>false</c>. 
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromAhls(System.Byte,System.Double,System.Double,System.Double)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from an alpha value and the specified HLS color values (hue, lightness, and saturation).
+            </summary><param name="alpha">The alpha component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><param name="hue">The hue component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 360.</param><param name="lightness">The lightness component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><param name="saturation">The saturation component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns><remarks>
+            Although this method allows a 32-bit value to be passed for each color component, the value of each component is limited to the values indicated above.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromAhsb(System.Byte,System.Double,System.Double,System.Double)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from an alpha value and the specified HSB color values (hue, saturation, and brightness).
+            </summary><param name="alpha">The alpha component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><param name="hue">The hue component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 360.</param><param name="saturation">The saturation component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><param name="brightness">The brightness component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns><remarks>
+            Although this method allows a 32-bit value to be passed for each color component, the value of each component is limited to the values indicated above.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromArgb(System.Byte,System.Byte,System.Byte,System.Byte)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from an alpha value and the specified RGB color values (red, green, and blue). 
+            </summary><param name="alpha">The alpha component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><param name="red">The red component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><param name="green">The red component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><param name="blue">The red component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns><remarks>
+            Although this method allows a 32-bit value to be passed for each color component, the value of each component is limited to 8 bits.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromColor(Windows.UI.Color)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the specified <see cref="T:Windows.UI.Color" />.
+            </summary><param name="color">The <see cref="T:Windows.UI.Color" /> to use as a template.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromColorComplement(Windows.UI.Color)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the complement of the specified <see cref="T:Windows.UI.Color" />.
+            </summary><param name="color">The <see cref="T:Windows.UI.Color" /> to complement and use as a template.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromColorComplement(Windows.UI.Color,System.Byte)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the complement of the specified <see cref="T:Windows.UI.Color" />.
+            </summary><param name="color">The <see cref="T:Windows.UI.Color" /> to complement and use as a template.</param><param name="alpha">The alpha channel value to use for the new color.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromHls(System.Double,System.Double,System.Double)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the specified HLS color values (hue, lightness, and saturation). 
+            </summary><param name="hue">The hue component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 360.</param><param name="lightness">The lightness component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><param name="saturation">The saturation component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns><remarks>
+            The alpha value is implicitly 255 (fully opaque). 
+            Although this method allows a 32-bit value to be passed for each color component, the value of each component is limited to the values indicated above.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromHsb(System.Double,System.Double,System.Double)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the specified HSB color values (hue, saturation, and brightness). 
+            </summary><param name="hue">The hue component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 360.</param><param name="saturation">The saturation component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><param name="brightness">The brightness component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 1.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns><remarks>
+            The alpha value is implicitly 255 (fully opaque). 
+            Although this method allows a 32-bit value to be passed for each color component, the value of each component is limited to the values indicated above.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromMix(Windows.UI.Color,Windows.UI.Color,System.Double)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that is the specified percentage between the value of two <see cref="T:Windows.UI.Color" /> objects.
+            </summary><param name="color1">The first <see cref="T:Windows.UI.Color" /> to examine.</param><param name="color2">The second <see cref="T:Windows.UI.Color" /> to examine.</param><param name="percentage">The percentage from the first color to the second in which to return a color.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromName(System.String)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the specified name of a pre-defined color.
+            </summary><param name="name">
+            A string that is the name of a pre-defined color. 
+            Valid names are the same as the names of the elements of the <see cref="T:Windows.UI.Colors" /> enumeration.
+            </param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromRgb(System.Byte,System.Byte,System.Byte)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the specified RGB color values (red, green, and blue). 
+            </summary><param name="red">The red component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><param name="green">The red component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><param name="blue">The red component value for the new <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure. Valid values are 0 through 255.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns><remarks>
+            The alpha value is implicitly 255 (fully opaque). 
+            Although this method allows a 32-bit value to be passed for each color component, the value of each component is limited to 8 bits.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.FromWebColor(System.String)"><summary>
+            Creates a <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure from the specified web color.
+            </summary><param name="color">A string containing the color.</param><returns>The <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure that this method creates.</returns><remarks>
+            This method can process HTML color specifications (e.g. #FF00FF) and known color names.
+            </remarks></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.GetHashCode"><summary>
+            Returns a hash code for this object.
+            </summary><returns>An integer value that specifies a hash value for this object.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.GetStandardCustomColors"><summary>
+            Returns a <see cref="T:Windows.UI.Color" /> array containing all of the standard custom values.
+            </summary><returns>An array of <see cref="T:Windows.UI.Color" /> objects.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.GetTintedColor(Windows.UI.Color,Windows.UI.Color)"><summary>
+            Returns the custom tinted color for the specified base color.
+            </summary><param name="baseColor">The base <see cref="T:Windows.UI.Color" /> to examine.</param><param name="tintColor">The tint <see cref="T:Windows.UI.Color" />.</param><returns>The custom tinted color for the specified base color.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.GetWebColors"><summary>
+            Returns an array containing all of the web color values.
+            </summary><returns>An array of <see cref="T:Windows.UI.Color" /> objects.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.Lighten(System.Double)"><summary>
+            Lightens the color by the specified amount.
+            </summary><param name="percentage">The percentage by which to lighten the color.  The value must be between <c>0</c> and <c>1</c>.</param></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.Tint(Windows.UI.Color)"><summary>
+            Tints this color towards the specified tint <see cref="T:Windows.UI.Color" />.
+            </summary><param name="tintColor">The tint <see cref="T:Windows.UI.Color" />.</param></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.ToColor"><summary>
+            Gets the <see cref="T:Windows.UI.Color" /> value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><returns>
+            The <see cref="T:Windows.UI.Color" /> that is encapsulated by this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" />.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.ToWebColor"><summary>
+            Converts the <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> to a web color.
+            </summary><returns>
+            The color in HTML color specification format (e.g. #FF00FF).
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.ToWebColor(System.Boolean)"><summary>
+            Converts the <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> to a web color.
+            </summary><param name="includeAlpha">Whether to include the alpha specification.</param><returns>
+            The color in HTML color specification format (e.g. #FFFF00FF).
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.UIColor.ToString"><summary>
+            Returns a <c>String</c> that represents the current <c>Object</c>.
+            </summary><returns>A <c>String</c> that represents the current <c>Object</c>.</returns></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.A"><summary>
+            Gets or sets the alpha component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The alpha component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>255</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.B"><summary>
+            Gets or sets the RGB blue component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The RGB blue component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>255</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.ExceedsW3CBrightnessThreshold"><summary>
+            Gets whether the color exceeds the W3C threshold for brightness.
+            </summary><value><c>true</c> if the color exceeds the W3C threshold for brightness; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.G"><summary>
+            Gets or sets the RGB green component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The RGB green component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>255</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.HlsHue"><summary>
+            Gets or sets the HLS hue component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The HLS hue component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>360</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.HlsLightness"><summary>
+            Gets or sets the HLS lightness component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The HLS lightness component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>1</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.HlsSaturation"><summary>
+            Gets or sets the HLS saturation component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The HLS saturation component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>1</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.HsbBrightness"><summary>
+            Gets or sets the HSB brightness component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The HSB brightness component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>1</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.HsbHue"><summary>
+            Gets or sets the HSB hue component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The HSB hue component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>360</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.HsbSaturation"><summary>
+            Gets or sets the HSB saturation component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The HSB saturation component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>1</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.IsGrayscale"><summary>
+            Gets whether the color is grayscale.
+            </summary><value><c>true</c> if the color is grayscale; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.IsLight"><summary>
+            Gets whether the color is a light color.
+            </summary><value><c>true</c> if the color is a light color; otherwise, <c>false</c>.
+            </value></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.R"><summary>
+            Gets or sets the RGB red component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.
+            </summary><value>The RGB red component value of this <see cref="T:ActiproSoftware.UI.Xaml.Media.UIColor" /> structure.</value><remarks>
+            Valid values are in the range <c>0</c> to <c>255</c>.
+            </remarks></member><member name="P:ActiproSoftware.UI.Xaml.Media.UIColor.W3CBrightness"><summary>
+            Gets the brightness of the color, based on the W3C formula for calculating brightness.
+            </summary><value>The brightness of the color, based on the W3C formula for calculating brightness.</value></member><member name="T:ActiproSoftware.UI.Xaml.Media.VisualTreeHelperExtended"><summary>
+            Contains static methods that are useful for performing common tasks with nodes in a visual tree.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Media.VisualTreeHelperExtended.GetAncestor``1(Windows.UI.Xaml.DependencyObject)"><summary>
+            Returns a <see cref="T:Windows.UI.Xaml.DependencyObject" /> value that represents an ancestor of the visual object that is of the specified <see cref="T:System.Type" />. 
+            </summary><param name="source">The visual whose ancestor is returned.</param><typeparam name="T">The desired ancestor <see cref="T:System.Type" />.</typeparam><returns>A <see cref="T:Windows.UI.Xaml.DependencyObject" /> value that represents an ancestor of the visual object that is of the specified <see cref="T:System.Type" />.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.VisualTreeHelperExtended.GetAncestorPopup(Windows.UI.Xaml.DependencyObject)"><summary>
+            Returns a <see cref="T:Windows.UI.Xaml.Controls.Primitives.Popup" /> value that represents an ancestor of the visual object.
+            </summary><param name="source">The visual whose ancestor is returned.</param><returns>A <see cref="T:Windows.UI.Xaml.Controls.Primitives.Popup" /> value that represents an ancestor of the visual object.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.VisualTreeHelperExtended.GetDescendant``1(Windows.UI.Xaml.DependencyObject,System.Int32)"><summary>
+            Returns a <see cref="T:Windows.UI.Xaml.DependencyObject" /> value that represents the n-th descendant visual object that is of the
+            specified <see cref="T:System.Type" />, where 'n' is specified using a skip count.
+            </summary><param name="source">The visual whose descendant is returned.</param><param name="skipCount">The number of items to skip before returning a match.</param><typeparam name="T">The desired descendant <see cref="T:System.Type" />.</typeparam><returns>
+            A <see cref="T:Windows.UI.Xaml.DependencyObject" /> value that represents the n-th descendant visual object that is of the specified
+            <see cref="T:System.Type" />, where 'n' is specified using a skip count.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.VisualTreeHelperExtended.GetRoot(Windows.UI.Xaml.DependencyObject)"><summary>
+            Returns the root <see cref="T:Windows.UI.Xaml.DependencyObject" /> in the visual tree.
+            </summary><param name="source">The visual whose root is returned.</param><returns>The root <see cref="T:Windows.UI.Xaml.DependencyObject" /> in the visual tree.</returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.VisualTreeHelperExtended.IsVisual(Windows.UI.Xaml.DependencyObject)"><summary>
+            Returns whether the specified <see cref="T:Windows.UI.Xaml.DependencyObject" /> is a <see cref="T:Windows.UI.Xaml.UIElement" />.
+            </summary><param name="obj">The <see cref="T:Windows.UI.Xaml.DependencyObject" /> to examine.</param><returns><c>true</c> if the specified <see cref="T:Windows.UI.Xaml.DependencyObject" /> is a <see cref="T:Windows.UI.Xaml.UIElement" />; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Media.VisualTreeHelperExtended.IsPointerOver(Windows.UI.Xaml.DependencyObject,Windows.UI.Xaml.Input.PointerRoutedEventArgs)"><summary>
+            Returns whether the bounds of the specified <see cref="T:Windows.UI.Xaml.DependencyObject" /> contains the pointer
+            without using a call to <c>IsMouseOver</c>, which can provide inaccurate results in mouse capture scenarios.
+            </summary><param name="obj"><c>UIElement</c> instance to be tested.</param><param name="e">A <see cref="T:Windows.UI.Xaml.Input.PointerRoutedEventArgs" /> that can be used to determine mouse position.</param><returns><c>true</c> if the bounds of the element contain the pointer position; otherwise, <c>false</c>.
+            </returns><remarks>The specified object must be a <see cref="T:Windows.UI.Xaml.UIElement" />.</remarks></member><member name="T:ActiproSoftware.UI.Xaml.ObservableObjectBase"><summary>
+            A simple object that implements <see cref="T:System.ComponentModel.INotifyPropertyChanged" />.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.ObservableObjectBase.NotifyPropertyChanged(System.String)"><summary>
+            Notifies that a property has changed.
+            </summary><param name="propertyName">The name of the property that was changed.</param></member><member name="M:ActiproSoftware.UI.Xaml.ObservableObjectBase.OnPropertyChanged(System.ComponentModel.PropertyChangedEventArgs)"><summary>
+            Raises the <see cref="E:ActiproSoftware.UI.Xaml.ObservableObjectBase.PropertyChanged" /> event.
+            </summary><param name="e">The <see cref="T:System.ComponentModel.PropertyChangedEventArgs" /> that contains the event data.</param></member><member name="E:ActiproSoftware.UI.Xaml.ObservableObjectBase.PropertyChanged"><summary>
+            Occurs when a property has been changed.
+            </summary></member><member name="T:ActiproSoftware.UI.Xaml.PropertyChangedEventArgs`1"><summary>
+            Provides event arguments for a property change event, indicating the old and new values.
+            </summary><typeparam name="T">The return type of the property.</typeparam></member><member name="M:ActiproSoftware.UI.Xaml.PropertyChangedEventArgs`1.#ctor(`0,`0)"><summary>
+            Initializes a new instance of the <c>PropertyChangedEventArgs</c> class.
+            </summary><param name="oldValue">The previous value of the property being tracked as reported by an event.</param><param name="newValue">The new value of the property being tracked as reported by an event.</param></member><member name="P:ActiproSoftware.UI.Xaml.PropertyChangedEventArgs`1.NewValue"><summary>
+            Gets the new value of the property being tracked as reported by an event.
+            </summary><value>The new value of the property being tracked as reported by an event.</value></member><member name="P:ActiproSoftware.UI.Xaml.PropertyChangedEventArgs`1.OldValue"><summary>
+            Gets the previous value of the property being tracked as reported by an event.
+            </summary><value>The previous value of the property being tracked as reported by an event.</value></member><member name="T:ActiproSoftware.UI.Xaml.Unit"><summary>
+            Represents a length measurement.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Centimeter(System.Double)"><summary>
+            Creates a new <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> instance with the specified centimeters.
+            </summary><param name="value">The centimeter value.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Equals(System.Object)"><summary>
+            Indicates whether this instance and a specified object are equal.
+            </summary><param name="obj">Another object to compare to.</param><returns>
+            true if <paramref name="obj" /> and this instance are the same type and represent the same value; otherwise, false.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.GetHashCode"><summary>
+            Returns the hash code for this instance.
+            </summary><returns>
+            A 32-bit signed integer that is the hash code for this instance.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.GetPixels(System.Double)"><summary>
+            Gets the number of pixels represented by this <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> using the specified width when the
+            <see cref="P:ActiproSoftware.UI.Xaml.Unit.Type" /> is set to <see cref="F:ActiproSoftware.UI.Xaml.UnitType.Percentage" />.
+            </summary><param name="width">The width.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Inch(System.Double)"><summary>
+            Creates a new <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> instance with the specified inches.
+            </summary><param name="value">The inch value.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Parse(System.String)"><summary>
+            Parses the specified string.
+            </summary><param name="value">The string to parse.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Parse(System.String,System.Globalization.CultureInfo)"><summary>
+            Parses the specified string using the specified <see cref="T:System.Globalization.CultureInfo" />.
+            </summary><param name="value">The string to parse.</param><param name="culture">The culture.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Percentage(System.Double)"><summary>
+            Creates a new <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> instance with the specified percentage.
+            </summary><param name="value">The percentage value.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Pixel(System.Double)"><summary>
+            Creates a new <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> instance with the specified pixels.
+            </summary><param name="value">The pixel value.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.Point(System.Double)"><summary>
+            Creates a new <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> instance with the specified points.
+            </summary><param name="value">The point value.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.ToString"><summary>
+            Returns a <see cref="T:System.String" /> representation of this instance.
+            </summary><returns>
+            A <see cref="T:System.String" /> representation of this instance.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.ToString(System.IFormatProvider)"><summary>
+            Returns a <see cref="T:System.String" /> representation of this instance using the specified <see cref="T:System.IFormatProvider" />
+            to convert the <see cref="P:ActiproSoftware.UI.Xaml.Unit.Value" />.
+            </summary><param name="formatProvider">The format provider.</param><returns></returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.ValidateIsGreaterThan(System.Object,System.Double)"><summary>
+            Validates that the object is a <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> greater than the specified number.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.ValidateIsGreaterThanOrEqual(System.Object,System.Double)"><summary>
+            Validates that the object is a <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> greater than or equal to the specified number.
+            </summary><param name="value">The object to validate.</param><param name="min">The number that the value must be greater than or equal to.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.ValidateIsPositive(System.Object)"><summary>
+            Validates that the object is a <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> greater than or equal to <c>0</c>.
+            </summary><param name="value">The object to validate.</param><returns><c>true</c> if the validation is successful; otherwise, <c>false</c>.
+            </returns></member><member name="M:ActiproSoftware.UI.Xaml.Unit.#ctor"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> class.
+            </summary></member><member name="M:ActiproSoftware.UI.Xaml.Unit.#ctor(System.Double)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> struct.
+            </summary><param name="value">The value.</param></member><member name="M:ActiproSoftware.UI.Xaml.Unit.#ctor(System.Double,ActiproSoftware.UI.Xaml.UnitType)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> struct.
+            </summary><param name="value">The value.</param><param name="type">The type.</param></member><member name="M:ActiproSoftware.UI.Xaml.Unit.#ctor(System.String)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> struct.
+            </summary><param name="value">The value.</param></member><member name="M:ActiproSoftware.UI.Xaml.Unit.#ctor(System.String,System.Globalization.CultureInfo)"><summary>
+            Initializes a new instance of the <see cref="T:ActiproSoftware.UI.Xaml.Unit" /> struct.
+            </summary><param name="value">The value.</param><param name="culture">The culture.</param></member><member name="P:ActiproSoftware.UI.Xaml.Unit.IsEmpty"><summary>
+            Gets a value indicating whether this instance is empty.
+            </summary><value><c>true</c> if this instance is empty; otherwise, <c>false</c>.</value></member><member name="P:ActiproSoftware.UI.Xaml.Unit.Type"><summary>
+            Gets the type of units used by <see cref="P:ActiproSoftware.UI.Xaml.Unit.Value" />.
+            </summary><value>The type of units.</value></member><member name="P:ActiproSoftware.UI.Xaml.Unit.Value"><summary>
+            Gets the value.
+            </summary><value>The value.</value></member><member name="F:ActiproSoftware.UI.Xaml.Unit.Empty"><summary>
+            Represents an empty <see cref="T:ActiproSoftware.UI.Xaml.Unit" />. This field is read-only.
+            </summary></member><member name="T:ActiproSoftware.UI.Xaml.UnitType"><summary>
+            Specifies the unit of measurement.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.UnitType.Pixel"><summary>
+            Indicates the measurement is in pixels.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.UnitType.Percentage"><summary>
+            Indicates the measurement is a percentage.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.UnitType.Inch"><summary>
+            Indicates the measurement is in inches.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.UnitType.Centimeter"><summary>
+            Indicates the measurement is in centimeters.
+            </summary></member><member name="F:ActiproSoftware.UI.Xaml.UnitType.Point"><summary>
+            Indicates the measurement is in points.
+            </summary></member></members></doc>

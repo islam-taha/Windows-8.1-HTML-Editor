@@ -1,0 +1,314 @@
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\App.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\resources.pri
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AppxManifest.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\Computer Lab.build.appxrecipe
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\App.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\App.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\App.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\App.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\priconfig.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\priconfig.xml.intermediate
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\layout.resfiles
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\layout.resfiles.intermediate
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\resources.resfiles
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\resources.resfiles.intermediate
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\pri.resfiles
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\pri.resfiles.intermediate
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\qualifiers.txt
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\ProjectArchitectures.txt
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\AppBarHint.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BoxPlot.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BulletGraph.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Candlestick.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Charts.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Charts.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\ChartsLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Dark.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Dark.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Assets\Dark.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\DataPointLabel.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\HeatMapPresenter.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Legend.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Light.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Light.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Marker.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Marker.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\MicroChartsLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\PieChart.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\RadialSlider.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Ranges.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Ranges.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Series.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Series.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\SharedLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditor.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditorLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Charts.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Core.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.MicroCharts.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Shared.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Shared.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.DotNet.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.DotNet.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.JavaScript.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.JavaScript.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.Xml.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.Xml.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.Addons.DotNet.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.Addons.DotNet.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.Addons.JavaScript.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.Addons.JavaScript.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.Addons.Xml.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.Addons.Xml.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.LLParser.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.LLParser.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.WinRT.dll
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\AS.Text.WinRT.xml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Computer Lab.csproj.GenerateResource.Cache
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\Common\StandardStyles.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\HTML-LAB.exe
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\HTML-LAB.pdb
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Common\StandardStyles.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Styles\AppBarHint.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BoxPlot.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BulletGraph.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Candlestick.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Charts.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Charts.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\ChartsLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Common.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Dark.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Dark.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Assets\Dark.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\DataPointLabel.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Generic.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\HeatMapPresenter.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Legend.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Light.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Light.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Marker.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Marker.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\MicroChartsLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\PieChart.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Styles\RadialSlider.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Ranges.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Ranges.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Series.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Series.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Styles\SharedLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditor.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditorLogo.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\HTML-LAB.exe
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\HTML-LAB.pdb
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\ContentPage.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\ContentPage.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\ContentPage.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\ContentPage.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\ContentPage.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\MainPage.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\MainPage.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\MainPage.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\MainPage.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\MainPage.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\Assets\ApplicationStyles.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Assets\ApplicationStyles.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Assets\ApplicationStyles.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Assets\ApplicationStyles.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\Assets\ApplicationStyles.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\FullScreen.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\FullScreen.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\FullScreen.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\FullScreen.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\FullScreen.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\SettingsCharms\SettingsFlyout1.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\bin\Debug\SettingsCharms\SettingsFlyout2.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.g.i.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.g.cs
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.xbf
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.xaml
+C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.xbf
+E:\App10\App10\bin\Debug\App.xbf
+E:\App10\App10\bin\Debug\Assets\ApplicationStyles.xbf
+E:\App10\App10\bin\Debug\Common\StandardStyles.xbf
+E:\App10\App10\bin\Debug\ContentPage.xbf
+E:\App10\App10\bin\Debug\FullScreen.xbf
+E:\App10\App10\bin\Debug\MainPage.xbf
+E:\App10\App10\bin\Debug\SettingsCharms\SettingsFlyout1.xbf
+E:\App10\App10\bin\Debug\SettingsCharms\SettingsFlyout2.xbf
+E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\AppBarHint.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BoxPlot.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BulletGraph.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Candlestick.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Charts.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Charts.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\ChartsLogo.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Dark.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Dark.xbf
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Assets\Dark.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\DataPointLabel.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Generic.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Generic.xbf
+E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Generic.xbf
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Generic.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\HeatMapPresenter.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Legend.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Light.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Light.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Marker.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Marker.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\MicroChartsLogo.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\PieChart.xbf
+E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\RadialSlider.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Ranges.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Ranges.xbf
+E:\App10\App10\bin\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Series.xbf
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Series.xbf
+E:\App10\App10\bin\Debug\AS.Shared.WinRT\Themes\Includes\Styles\SharedLogo.xbf
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditor.xbf
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditorLogo.xbf
+E:\App10\App10\bin\Debug\HTML-LAB.exe
+E:\App10\App10\bin\Debug\HTML-LAB.pdb
+E:\App10\App10\bin\Debug\resources.pri
+E:\App10\App10\bin\Debug\AppxManifest.xml
+E:\App10\App10\bin\Debug\Computer Lab.build.appxrecipe
+E:\App10\App10\bin\Debug\AS.Charts.WinRT.dll
+E:\App10\App10\bin\Debug\AS.Charts.WinRT.xml
+E:\App10\App10\bin\Debug\AS.Core.WinRT.dll
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT.dll
+E:\App10\App10\bin\Debug\AS.MicroCharts.WinRT.xml
+E:\App10\App10\bin\Debug\AS.Shared.WinRT.dll
+E:\App10\App10\bin\Debug\AS.Shared.WinRT.xml
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.DotNet.WinRT.dll
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.DotNet.WinRT.xml
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.JavaScript.WinRT.dll
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.JavaScript.WinRT.xml
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.Xml.WinRT.dll
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.Addons.Xml.WinRT.xml
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT.dll
+E:\App10\App10\bin\Debug\AS.SyntaxEditor.WinRT.xml
+E:\App10\App10\bin\Debug\AS.Text.Addons.DotNet.WinRT.dll
+E:\App10\App10\bin\Debug\AS.Text.Addons.DotNet.WinRT.xml
+E:\App10\App10\bin\Debug\AS.Text.Addons.JavaScript.WinRT.dll
+E:\App10\App10\bin\Debug\AS.Text.Addons.JavaScript.WinRT.xml
+E:\App10\App10\bin\Debug\AS.Text.Addons.Xml.WinRT.dll
+E:\App10\App10\bin\Debug\AS.Text.Addons.Xml.WinRT.xml
+E:\App10\App10\bin\Debug\AS.Text.LLParser.WinRT.dll
+E:\App10\App10\bin\Debug\AS.Text.LLParser.WinRT.xml
+E:\App10\App10\bin\Debug\AS.Text.WinRT.dll
+E:\App10\App10\bin\Debug\AS.Text.WinRT.xml
+E:\App10\App10\obj\Debug\App.g.i.cs
+E:\App10\App10\obj\Debug\App.g.cs
+E:\App10\App10\obj\Debug\Assets\ApplicationStyles.g.i.cs
+E:\App10\App10\obj\Debug\Assets\ApplicationStyles.g.cs
+E:\App10\App10\obj\Debug\Common\StandardStyles.g.i.cs
+E:\App10\App10\obj\Debug\Common\StandardStyles.g.cs
+E:\App10\App10\obj\Debug\ContentPage.g.i.cs
+E:\App10\App10\obj\Debug\ContentPage.g.cs
+E:\App10\App10\obj\Debug\FullScreen.g.i.cs
+E:\App10\App10\obj\Debug\FullScreen.g.cs
+E:\App10\App10\obj\Debug\MainPage.g.i.cs
+E:\App10\App10\obj\Debug\MainPage.g.cs
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.g.i.cs
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.g.cs
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.g.i.cs
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.g.cs
+E:\App10\App10\obj\Debug\XamlTypeInfo.g.cs
+E:\App10\App10\obj\Debug\App.xaml
+E:\App10\App10\obj\Debug\Assets\ApplicationStyles.xaml
+E:\App10\App10\obj\Debug\Common\StandardStyles.xaml
+E:\App10\App10\obj\Debug\ContentPage.xaml
+E:\App10\App10\obj\Debug\FullScreen.xaml
+E:\App10\App10\obj\Debug\MainPage.xaml
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.xaml
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.xaml
+E:\App10\App10\obj\Debug\App.xbf
+E:\App10\App10\obj\Debug\Assets\ApplicationStyles.xbf
+E:\App10\App10\obj\Debug\Common\StandardStyles.xbf
+E:\App10\App10\obj\Debug\ContentPage.xbf
+E:\App10\App10\obj\Debug\FullScreen.xbf
+E:\App10\App10\obj\Debug\MainPage.xbf
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout1.xbf
+E:\App10\App10\obj\Debug\SettingsCharms\SettingsFlyout2.xbf
+E:\App10\App10\obj\Debug\XamlSaveStateFile.xml
+E:\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Styles\AppBarHint.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BoxPlot.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\BulletGraph.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Candlestick.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Charts.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Charts.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\ChartsLogo.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Common.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Dark.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Dark.xbf
+E:\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Assets\Dark.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\DataPointLabel.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Generic.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Generic.xbf
+E:\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Generic.xbf
+E:\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Generic.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\HeatMapPresenter.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Legend.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Assets\Light.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Assets\Light.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Marker.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Marker.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\MicroChartsLogo.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\PieChart.xbf
+E:\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Styles\RadialSlider.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Ranges.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Ranges.xbf
+E:\App10\App10\obj\Debug\AS.Charts.WinRT\Themes\Includes\Styles\Series.xbf
+E:\App10\App10\obj\Debug\AS.MicroCharts.WinRT\Themes\Includes\Styles\Series.xbf
+E:\App10\App10\obj\Debug\AS.Shared.WinRT\Themes\Includes\Styles\SharedLogo.xbf
+E:\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditor.xbf
+E:\App10\App10\obj\Debug\AS.SyntaxEditor.WinRT\Themes\Includes\Styles\SyntaxEditorLogo.xbf
+E:\App10\App10\obj\Debug\HTML-LAB.exe
+E:\App10\App10\obj\Debug\HTML-LAB.pdb
+E:\App10\App10\obj\Debug\Computer Lab.csproj.GenerateResource.Cache
+E:\App10\App10\obj\Debug\priconfig.xml
+E:\App10\App10\obj\Debug\priconfig.xml.intermediate
+E:\App10\App10\obj\Debug\layout.resfiles
+E:\App10\App10\obj\Debug\layout.resfiles.intermediate
+E:\App10\App10\obj\Debug\resources.resfiles
+E:\App10\App10\obj\Debug\resources.resfiles.intermediate
+E:\App10\App10\obj\Debug\pri.resfiles
+E:\App10\App10\obj\Debug\pri.resfiles.intermediate
+E:\App10\App10\obj\Debug\qualifiers.txt
+E:\App10\App10\obj\Debug\qualifiers.txt.intermediate
+E:\App10\App10\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\App10\App10\obj\Debug\ProjectArchitectures.txt

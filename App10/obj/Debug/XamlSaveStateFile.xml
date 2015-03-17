@@ -1,0 +1,18 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\islam taha\documents\visual studio 2013\projects\app10\app10\obj\debug\intermediatexaml\app10.exe" HashGuid="871106f2-4f1f-096d-ff75-1e50d9ccbcc5" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.charts.winrt.dll" HashGuid="fcb51e6e-a03b-d8f7-f31f-2e0c0eb031d0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.core.winrt.dll" HashGuid="450ee91b-c135-9ded-4abe-737831f2a06f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.microcharts.winrt.dll" HashGuid="6f102f8f-0716-e2b8-f1a1-e77c16ba3d72" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.shared.winrt.dll" HashGuid="8639f273-0dcd-7b3a-9aaa-7f3a63e06dd1" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.syntaxeditor.addons.dotnet.winrt.dll" HashGuid="09adcd88-d177-3adf-7945-b3d85326ad8b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.syntaxeditor.addons.javascript.winrt.dll" HashGuid="72043a6a-82f3-88a5-8517-7353afa815cd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.syntaxeditor.addons.xml.winrt.dll" HashGuid="42f044c2-c29a-9af9-cd33-c321b04b5efc" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.syntaxeditor.winrt.dll" HashGuid="e73aa473-77b0-1cf4-afcc-a4cfa0afec84" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.text.addons.dotnet.winrt.dll" HashGuid="2a27b44d-51f0-4fc5-b03f-b487a00a0d76" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.text.addons.javascript.winrt.dll" HashGuid="2cc9799a-d21f-04d0-bfbc-d049200e9f71" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.text.addons.xml.winrt.dll" HashGuid="69574766-24c8-e5a7-a4f5-97cdf08d7e95" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.text.llparser.winrt.dll" HashGuid="f11833b9-3020-126d-8f12-ce45b9019f04" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\actiprosoftware.winrt.xaml\14.1.0141\references\commonconfiguration\neutral\as.text.winrt.dll" HashGuid="6dfd7b92-4e60-ca29-0e29-8f13def9064f" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

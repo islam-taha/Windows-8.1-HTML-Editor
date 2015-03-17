@@ -1,0 +1,22 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-100"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\filemap.pri"			"resources.pri"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\MicrosoftAdvertising.winmd"			"MicrosoftAdvertising.winmd"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Microsoft.Advertising.WinRT.UI.winmd"			"Microsoft.Advertising.WinRT.UI.winmd"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\App10.exe"			"App10.exe"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Microsoft.Advertising.WinRT.UI\ormma.js"			"Microsoft.Advertising.WinRT.UI\ormma.js"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Microsoft.Advertising.WinRT.UI\bootstrap.html"			"Microsoft.Advertising.WinRT.UI\bootstrap.html"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf"			"Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf"			"Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\html\first.html"			"html\first.html"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Assets\squareTile-sdk.scale-100.png"			"Assets\squareTile-sdk.scale-100.png"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Assets\rsz_icpc_logo_big.png"			"Assets\rsz_icpc_logo_big.png"
+"C:\Users\Islam Taha\Documents\Visual Studio 2013\Projects\App10\App10\obj\Debug\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"
